@@ -1,0 +1,319 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1 refresh="1800"
+#EXTM3U url-tvg="http://trada.info/epg.xml" tvg-shift=0 m3uautoload=2 refresh="3600" 
+#EXTM3U url-tvg="http://hqth.me/epg" tvg-shift=0 m3uautoload=3 refresh="5400" 
+#EXTM3U url-tvg="http://gg.gg/fptepg" tvg-shift=0 m3uautoload=4 refresh="7200"
+#EXTM3U url-tvg="http://gg.gg/epgvnb9" tvg-shift=0 m3uautoload=5 refresh="9000"
+#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 m3uautoload=6 refresh="10800"
+
+
+
+#------------------------VTV------------------------#
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://i.imgur.com/zTFKdA3.png",VTV1 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.117:10254
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" group-title="VTV" tvg-logo="https://i.imgur.com/hlUIBRP.png",VTV2 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.31:10594
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 HD" group-title="VTV" tvg-logo="https://i.imgur.com/g4QS4ZO.png",VTV3 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.118:10260
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 HD" group-title="VTV" tvg-logo="https://i.imgur.com/KAvgHBf.png",VTV4 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.106:10600
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://i.imgur.com/pN2prZz.png",VTV5 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.33:10606
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 Tây Nam Bộ" group-title="VTV" tvg-logo="https://i.imgur.com/Bulp3KF.png",VTV5 Tây Nam Bộ
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.86:11542
+#EXTINF:-1 tvg-id="vtvct" tvg-name="VTV Cần Thơ HD" group-title="VTV" tvg-logo="https://i.imgur.com/pc6nPic.png",VTV Cần Thơ HD 
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.119:10266
+#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://i.imgur.com/UpGMNcQ.png",VTV7 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.202:10996
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 HD" group-title="VTV" tvg-logo="https://i.imgur.com/DEJkqG7.png",VTV8 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.104:10612
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 HD" group-title="VTV" tvg-logo="https://i.imgur.com/dqBM1GR.png",VTV9 HD
+
+#------------------------VTC------------------------#
+#EXTINF:-1 tvg-id="vtc1hd" tvg-name="VTC1 HD" group-title="VTC" tvg-logo="https://i.imgur.com/fZqAe9G.png",VTC1 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.102:10846
+#EXTINF:-1 tvg-id="vtc3hd" tvg-name="VTC3 HD" group-title="VTC" tvg-logo="https://i.imgur.com/S7qKrHh.png",VTC3 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.81:8460
+#EXTINF:-1 tvg-id="vtc4hd" tvg-name="VTC4 HD" group-title="VTC" tvg-logo="https://i.imgur.com/dajle4I.png",VTC4 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.147:10714
+#EXTINF:-1 tvg-id="vtc5hd" tvg-name="VTC5 HD" group-title="VTC" tvg-logo="https://i.imgur.com/5yDClyX.png",VTC5 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.136:10720
+#EXTINF:-1 tvg-id="vtc7hd" tvg-name="VTC7 HD - TODAYTV" group-title="VTC" tvg-logo="https://i.imgur.com/df8HArX.png",VTC7 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.120:10726
+#EXTINF:-1 tvg-id="vtc9hd" tvg-name="VTC9 HD" group-title="VTC" tvg-logo="https://i.imgur.com/aO2jQ3Q.png",VTC9 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.141:10732
+#EXTINF:-1 tvg-id="vtc10hd" tvg-name="VTC10 HD" group-title="VTC" tvg-logo="https://i.imgur.com/78uoTuy.png",VTC10 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.87:11530
+#EXTINF:-1 tvg-id="vtc13hd" tvg-name="VTC13 HD" group-title="VTC" tvg-logo="https://i.imgur.com/3VRaf9e.png",VTC13 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.74:8418
+
+ #------------------------VOV------------------------#
+#EXTINF:-1 tvg-id="vovtvhd" tvg-name="VOVTV" group-title="VOV" tvg-logo="https://i.imgur.com/QjJ0Ic4.png",VOVTV
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.46:8256
+
+#------------------------HTV/HTVC------------------------#
+#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2 VieChannel HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KRShW5y.png",HTV2 Vie Channel HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.182:9306
+#EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7 HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pNWzP6P.png",HTV7 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.223:9312
+#EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9 HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/IsTEZFb.png",HTV9 HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.224:9318
+#EXTINF:-1 tvg-id="htvcphimtruyenhd" tvg-name="HTVC HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/5X1BPGr.png",HTVC HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.118:9594
+#EXTINF:-1 tvg-id="tvg-id="htvcthuanviethd" tvg-name="HTVC Thuần Việt HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/kagLn7r.png",HTVC Thuần Việt HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.134:9600
+#EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.35:8184
+#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2 VieChannel SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KRShW5y.png",HTV2 Vie Channel SD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.36:8190
+#EXTINF:-1 tvg-id="htv3hd" tvg-name="HTV3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/TCoIsVF.png",HTV3
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.104:8598
+#EXTINF:-1 tvg-id="htvkey" tvg-name="HTV4" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/qSpTUnK.png",HTV Key
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.25:8124
+#EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7 SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/n2PEK28.png",HTV7 SD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.21:8100
+#EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9 SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/6GSN524.png",HTV9 SD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.31:8160
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THỂ THAO SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/0PBzci0.png",HTV THỂ THAO SD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.24:8118
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THỂ THAO HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/eX0ZNpi.png",HTV THỂ THAO HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.88:11524
+#EXTINF:-1 tvg-id="dulichcuocsong" tvg-name="HTVC DU LỊCH VÀ CUỘC SỐNG" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/eJrN2C6.png",DU LỊCH VÀ CUỘC SỐNG
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.221:9300
+#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-name="HTVC GIA DINH" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Wpp9DpW.png",GIA ĐÌNH
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.170:8994
+#EXTINF:-1 tvg-id="htvcphimtruyenhd" tvg-name="HTVC SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/5X1BPGr.png",HTVC SD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.105:8604
+#EXTINF:-1 tvg-id="htvchd" tvg-name="HTVC HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/5X1BPGr.png",HTVC HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.245:11392
+#EXTINF:-1 tvg-id="htvcphunuhd" tvg-name="HTVC PHU NU SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Zq00lJR.png",PHỤ NỮ
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.127:8736
+#EXTINF:-1 tvg-id="htvcthuanviet" tvg-name="HHTVC Thuần Việt SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Ks9yWa1.png",HTVC Thuần Việt SD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.22:8106
+#EXTINF:-1 tvg-id="htvccanhachd" tvg-name="HTVC CA NHAC SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/BM2SCQ4.png",HTVC Ca Nhạc
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.126:8730
+
+#------------------------Thiết Yếu------------------------#
+#EXTINF:-1 tvg-id="nhandan" tvg-name="Nhân Dân TV" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/20sj8kS.png",Nhân Dân TV
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.124:10822
+#EXTINF:-1 tvg-id="quochoi" tvg-name="QUỐC HỘI" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/hFnhJBM.png",QUỐC HỘI
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.234:10290
+#EXTINF:-1 tvg-id="quochoihd" tvg-name="QUỐC HỘI HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/hFnhJBM.png",QUỐC HỘI HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.181:10290
+#EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/bZkReWB.png",QPVN HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.127:10816
+#EXTINF:-1 tvg-id="vnews" tvg-name="THONG TAN XA VIET NAM" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/o0na2tQ.png",VNEWS HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.125:10434
+#EXTINF:-1 tvg-name="ANTV" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/nOb4rPT.png",ANTV
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.212:9246
+#EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN (SD)" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/bZkReWB.png",QPVN SD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.228:9342
+#EXTINF:-1 tvg-id="vnews" tvg-name="THONG TAN XA VIET NAM SD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/o0na2tQ.png",VNEWS SD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.52:8292
+
+#------------------------Other------------------------#
+#EXTINF:-1 tvg-id="mtvhd" tvg-name="MTV HD" group-title="Other Channel" tvg-logo="https://i.imgur.com/pIu4OSu.png",MTV
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.107:10834
+#EXTINF:-1 tvg-id="hitv" tvg-name="HiTV" group-title="Other Channel" tvg-logo="https://i.imgur.com/gMeGXeL.png",HiTV
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.55:8310
+#EXTINF:-1 tvg-id="mtvhd" tvg-name="MTV SD" group-title="Other Channel" tvg-logo="https://i.imgur.com/pIu4OSu.png",MTV
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.82:8466
+#EXTINF:-1 tvg-id="sctv8" group-title="Other Channel" tvg-logo="https://i.imgur.com/87Fm3p0.png",SCTV8 VITV
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.32:8166
+#EXTINF:-1 tvg-id="btv9" tvg-name="BTV9 An Viên TV" group-title="Other Channel" tvg-logo="https://i.imgur.com/NFxEKVl.png",BTV9 An Viên TV
+http://cloud.vuducdong.uk:8383/rtp/@232.84.3.199:11116
+
+#------------------------Địa phương (HD)------------------------#
+#EXTINF:-1 tvg-id="quangninh1" tvg-name="TH QUANG NINH 1 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/ndax4Qk.png",QTV1 HD_TH Quảng Ninh
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.248:10978
+#EXTINF:-1 tvg-id="quangninh3" tvg-name="TH QUANG NINH 3 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YfdCLVn.png",QTV3 HD_TH Quảng Ninh
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.249:10984
+#EXTINF:-1 tvg-id="thainguyen" tvg-name="TH THAI NGUYEN 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/vz36bdU.png",TN1 HD_TH Thái Nguyên
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.146:10774
+#EXTINF:-1 tvg-id="phutho" tvg-name="TH PHU THO" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6USaqW8.png",PTV HD_TH Phú Thọ
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.148:10792
+#EXTINF:-1 tvg-id="bacninh" tvg-name="TH BAC NINH" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/TDNvY5D.png",BTV_TH Bắc Ninh
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.245:10506
+#EXTINF:-1 tvg-id="hanoi1" tvg-name="HANOITV 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2fHroPI.png",H1 HD_TH Hà Nội
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.143:10738
+#EXTINF:-1 tvg-id="hanoi2" tvg-name="HANOITV 2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/u9iGlgm.png",H2 HD_TH Hà Nội
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.137:10744
+#EXTINF:-1 tvg-id="haiphong" tvg-name="TH HAI PHONG" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dSKTFhP.png",THP HD_TH Thành phố Hải Phòng
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.142:10780
+#EXTINF:-1 tvg-id="hungyen" tvg-name="TH HUNG YEN" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/3d4eDDC.png",HY HD_TH Hưng Yên
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.110:10786
+#EXTINF:-1 tvg-id="nghean" tvg-name="TH NGHE AN" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6BIslNR.png",NTV HD_TH Nghệ An
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.198:10972
+#EXTINF:-1 tvg-id="hatinh" tvg-name="TH HA TINH" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/v4zGbnL.png",HTTV HD_TH Hà Tĩnh
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.134:10768
+#EXTINF:-1 tvg-id="quangngai" tvg-name="TH QUANG NGAI" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/d8Cv42P.png",PTQ_TH Quảng Ngãi
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.126:10798
+#EXTINF:-1 tvg-id="binhduong1" tvg-name="TH BINH DUONG 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/MkJXKiZ.png",BTV1 HD_TH Bình Dương
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.109:10750
+#EXTINF:-1 tvg-id="binhduong4" tvg-name="TH BINH DUONG 4" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/8Ftj4H3.png",BTV4 HD_TH Bình Dương
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.156:10756
+#EXTINF:-1 tvg-id="dongnai1" tvg-name="TH DONG NAI 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/m0SBQVK.png",ĐNRTV1 HD_TH Đồng Nai
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.112:10762
+#EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/w3M8LmD.png",THVL1 HD_TH Vĩnh Long
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.152:10882
+#EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/FHbIeDw.png",THVL2 HD_TH Vĩnh Long
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.164:10888
+#EXTINF:-1 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/hbAK3iJ.png",THVL3 HD_TH Vĩnh Long
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.165:10900
+#EXTINF:-1 tvg-id="vinhlong4hd" tvg-name="THVL4 HD" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/X8QyXHZ.png",THVL4 HD_TH Vĩnh Long
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.160:10912
+#EXTINF:-1 tvg-id="kiengiang" tvg-name="TH KIEN GIANG 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5CPlsYv.png",KG_TH Kiên Giang
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.161:10918
+
+
+#------------------------Quốc Tế (HD)------------------------#
+#EXTINF:-1 tvg-id="animalhd" tvg-name="Animal Planet HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/AApqW63.jpg",Animal Planet HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.139:10702
+#EXTINF:-1 tvg-id="afnhd" tvg-name="Asian Food Network HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/4zQG7KX.png",Asian Food Network HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.129:9570
+#EXTINF:-1 tvg-id="axnhd" tvg-name="AXN HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/VoCJAcN.png",AXN HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.121:10660
+#EXTINF:-1 tvg-id="babytvhd" tvg-name="Baby TV HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ZfV0s1S.png",Baby TV HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.128:10624
+#EXTINF:-1 tvg-id="bloomberg" tvg-name="Bloomberg HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/46t5REK.png",Bloomberg HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.157:10696
+#EXTINF:-1 tvg-id="cartoonhd" tvg-name="Cartoon Network HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/OLeTUpu.png",Cartoon Network HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.144:10684
+#EXTINF:-1 tvg-id="musicboxhd" tvg-name="MusicBox HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/s3ZqjxQ.png",MusicBox HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.13:8052
+#EXTINF:-1 tvg-id="channelnewsasia" tvg-name="Channel NewsAsia HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/MztDCW5.png",Channel NewsAsia HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.155:10540
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/LjOE7VC.png",CNN HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.153:10690
+#EXTINF:-1 tvg-id="davinci" tvg-name="DaVinci HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vabPaRG.png",DaVinci HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.131:9582
+#EXTINF:-1 tvg-id="discoveryhd" tvg-name="Discovery HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EGjNXZA.png",Discovery HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.132:10528
+#EXTINF:-1 tvg-id="dw" tvg-name="DW HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/op6hPn3.png",DW HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.154:10416
+#EXTINF:-1 tvg-id="fashionhd" tvg-name="FashionTV HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/mG3yqls.png",FashionTV HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.149:10522
+#EXTINF:-1 tvg-id="boxhits" tvg-name="BoxHits HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ekLk92J.png",BoxHits HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.77:8436
+#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/suciWNF.png",HBO HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.101:10648
+#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/fzFu41R.png",CINEMAX HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.117:10654
+#EXTINF:-1 tvg-id="ngchd" tvg-name="National Geographic HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/LT6Tn2x.png",NATIONAL GEOGRAPHIC HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.1:7980
+#EXTINF:-1 tvg-id="ngwhd" tvg-name="NAT GEO WILD HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/lRBt7my.png",NAT GEO WILD HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.123:8454
+#EXTINF:-1 tvg-id="nhkworldhd" tvg-name="NHK World Japan HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/OJd9r6E.png",NHK WORLD JAPAN HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.72:8406
+#EXTINF:-1 tvg-id="outdoorhd" tvg-name="Outdoor Channel HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/5DNGnwA.png",Outdoor Channel HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.107:10218
+#EXTINF:-1 tvg-id="cinemaworld" tvg-name="CinemaWorld HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ez78vFK.png",CinemaWorld HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.103:10840
+#EXTINF:-1 tvg-id="tlchd" tvg-name="Travel & Living HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KZqwTe4.png",Travel & Living HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.156:10708
+#EXTINF:-1 tvg-id="warnertvhd" tvg-name="WARNERTV HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/wWoUsKD.png",WARNERTV HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.114:10516
+#EXTINF:-1 tvg-id="clubbingtv" tvg-name="Clubbing TV HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Mp9Bjur.png",Clubbing TV HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.194:11086
+#EXTINF:-1 tvg-id="cbeebies" tvg-name="BBC CBieBies HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/OPy0cHh.png",BBC CBieBies HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.90:10398
+#EXTINF:-1 tvg-id="bbcearth" tvg-name="BBC Earth HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ejKweLu.png",BBC Earth HD
+http://cloud.vuducdong.uk:8383/rtp/@232.84.3.226:11278
+#EXTINF:-1 tvg-id="bbclifestyle" tvg-name="BBC LifeStyle HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/HPik9x7.png",BBC LifeStyle HD
+http://cloud.vuducdong.uk:8383/rtp/@232.84.3.225:11272
+#EXTINF:-1 tvg-id="animaxhd" tvg-name="ANIMAX HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ltRW5ev.png",ANIMAX HD
+http://cloud.vuducdong.uk:8383/rtp/@232.84.1.18:8082
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Qegqnn2.png",Boomerang HD
+http://cloud.vuducdong.uk:8383/rtp/@232.84.3.222:11254
+#EXTINF:-1 tvg-id="dreamworks" tvg-name="Dreamwork HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/zE5oU1T.png",Dreamwork HD
+http://cloud.vuducdong.uk:8383/rtp/@232.84.3.227:11284
+#EXTINF:-1 tvg-id="hitshd" tvg-name="HITS HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/fWt2wzw.png",HITS HD
+http://cloud.vuducdong.uk:8383/rtp/@232.84.3.214:11206
+
+#------------------------MyTV------------------------#
+#EXTINF:-1 group-title="MyTV Service" tvg-logo="",801_MyTV
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.175:10858
+#EXTINF:-1 group-title="MyTV Service" tvg-logo="",802_MyTV Đặc Sắc
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.176:10864
+#EXTINF:-1 group-title="MyTV Service" tvg-logo="",803_MyTV
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.195:10954
+#EXTINF:-1 group-title="MyTV Service" tvg-logo="",804_MyTV HD
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.196:10960
+#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Mosaic 1
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.174:9426
+#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Mosaic 2
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.173:9432
+#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Vinpearl 1
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.159:10422
+#EXTINF:-1 group-title="MyTV Service" tvg-logo="",Vinpearl 2
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.239:10302
+#EXTINF:-1 group-title="MyTV Service" tvg-logo="",MyTV Giới Thiệu Chương Trình
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.238:10296
+#EXTINF:-1 group-title="MyTV Service" tvg-logo="",MyTV Quảng Cáo
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.56:10546
+
+
+#--*.*--Tennis Live--*.*--#
+
+#EXTINF:-1 group-title="🔴| Live Event" tvg-logo="http://gg.gg/livehdd",1.Tennis Dohuk Sports
+http://p4.giffy.be:8080/play/live.php?mac=00:1A:79:ae:f6:d2&stream=309992&extension=ts&play_token=cw7DDSmzZd
+
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/eurosport1xkkk",1.EuroSport 1 FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=8339&extension=ts&play_token=clIor7Ker2
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/eurosport2kkk",1.EuroSport 2 FHD
+http://dns20.xyz:80/play/live.php?mac=00:1a:79:62:30:79&stream=71606&extension=ts&play_token=rQtYPRfIUI
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/eurosport1xkkk",2.EuroSport 1 FHD
+http://cocopops.xyz:8080/play/live.php?mac=00:1a:79:6b:96:31&stream=278612&extension=ts&play_token=ydIShg4Xih
+#EXTINF:-1 group-title="Sky Sports" tvg-logo="http://gg.gg/eurosport2kkk",2.EuroSport 2 FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=9852&extension=ts&play_token=cwdRdihniL
+
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",1.ESPN 1 FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=32083&extension=ts&play_token=54jfarpTs9
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",2.ESPN 1 FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=42909&extension=ts&play_token=DhmsA3yGBq
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",3.ESPN 1 FHD
+
+
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",1.ESPN 2 FHD
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:23:76:45&stream=32089&extension=ts&play_token=OJgmkAhrHs
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",2.ESPN 2 FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=42910&extension=ts&play_token=3boUMQdHFb
+#EXTINF:-1 group-title="USA Sports" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG.png",3.ESPN 2 FHD
+
+
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS FHD
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:bf:85:ba&stream=519695&extension=ts&play_token=Td5aN51cxU
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",2.TENNIS FHD
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=519695&extension=ts&play_token=RTrOU8KNyV
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",3.TENNIS FHD
+http://gooserace.xyz/live/annmarie/annmarie/2107279.m3u8
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",4.TENNIS FHD
+http://restream-live.realiptv.to:8080/live/Daryl/12345/3685.m3u8
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",5.TENNIS FHD
+
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 1 FHD
+
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 2 FHD
+
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 3 FHD
+
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 4 FHD
+
+#EXTINF:-1 group-title="USA Sports" tvg-logo="http://gg.gg/tennisfhdkkk",1.TENNIS Plus 5 FHD
+
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1 HD.png",1.Astro Supersports 1 FHD
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115615&extension=ts&play_token=TpjKqKOYXN
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1 HD.png",1.Astro Supersports 2 FHD
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115616&extension=ts&play_token=EhQRHoKa1j
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1 HD.png",1.Astro Supersports 3 FHD
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115617&extension=ts&play_token=57f1B5QsEy
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1 HD.png",1.Astro Supersports 4 FHD
+http://nordicone.tv:80/play/live.php?mac=00:1a:79:67:52:6c&stream=115618&extension=ts&play_token=gM6wuCy6wi
+#EXTINF:-1 group-title="Astro Supersports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Astro_ASSP1 HD.png",1.Astro Supersports 5 FHD
+
+
+
+
+
+
+
+
