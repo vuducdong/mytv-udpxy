@@ -573,7 +573,7 @@ http://172.17.0.2:4000/rtp/232.84.1.142:10386
 
 #------------------------DRM------------------------#
 #EXTINF:-1 tvg-id="vtvcab6hd" tvg-name="VTVcab6_OnSports+HD" group-title="VTVcab_DRM" tvg-logo="https://i.imgur.com/5m2tXYq.png",VTVcab6_OnSports+HD
-http://172.17.0.2:4000/rtp/232.84.3.242:11374
+http://172.17.0.2:4000/rtp/232.84.1.220:9294
 #EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="VTVcab18_ON Sports News Premium" group-title="VTVcab_DRM" tvg-logo="https://i.imgur.com/WSMAoYn.png",VTVcab18_ON Sports News Premium
 http://172.17.0.2:4000/rtp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVcab3_ON Sports HD" group-title="VTVcab_DRM" tvg-logo="https://i.imgur.com/TFuB8RQ.png",VTVcab3_ON Sports HD

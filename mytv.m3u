@@ -47,10 +47,6 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.3.87:11530
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.74:8418
 
 #------------------------VTVcab------------------------#
-#EXTINF:-1 tvg-id="vtvcab6hd" tvg-name="VTVcab6_OnSports+HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/5m2tXYq.png",VTVcab6_OnSports+HD
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.242:11374
-#EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="VTVcab18_ON Sports News Premium" group-title="VTVcab" tvg-logo="https://i.imgur.com/WSMAoYn.png",VTVcab18_ON Sports News Premium
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.193:10942
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVcab3_ON Sports HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/TFuB8RQ.png",VTVcab3_ON Sports HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVcab16_ON Football HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/Nu9R94c.png",VTVcab16_ON Football HD
