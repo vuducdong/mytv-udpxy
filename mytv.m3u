@@ -59,6 +59,17 @@ http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyW
 http://f56ba39027.vws.khanggtivi.xyz/vieon/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/vtvcab6-on-sport-plus/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="VTVcab18_ON Sports News Premium" group-title="VTVcab" tvg-logo="https://i.imgur.com/WSMAoYn.png",VTVcab18_ON Sports News Premium
 http://f56ba39027.vws.khanggtivi.xyz/vieon/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/vtvcab18-on-sports-news/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="VTVcab18_ON Sports News Premium" group-title="VTVcab" tvg-logo="https://i.imgur.com/WSMAoYn.png",VTVcab18_ON Sports News Premium
+http://f56ba39027.vws.khanggtivi.xyz/vieon/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/vtvcab18-on-sports-news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kcinehd" tvg-name="K+CINE" group-title="VTVcab" tvg-logo="https://i.imgur.com/E8MhzOa.png",K+CINE
+http://stream2.khanggtivi.xyz:1234/stream/kplus/kcine/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+#EXTINF:-1 tvg-id="kactionhd" tvg-name="K+ACTION" group-title="VTVcab" tvg-logo="https://i.imgur.com/z0dY4rf.png",K+ACTION
+http://stream2.khanggtivi.xyz:1234/stream/kplus/klife/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+#EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+SPORT1" group-title="VTVcab" tvg-logo="https://i.imgur.com/weACFw1.png",K+SPORT1
+http://stream2.khanggtivi.xyz:1234/stream/kplus/kplus1/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+#EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+SPORT2" group-title="VTVcab" tvg-logo="https://i.imgur.com/epYSBkp.png",K+SPORT2
+http://stream2.khanggtivi.xyz:1234/stream/kplus/kplus2/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
 
  #------------------------VOV------------------------#
 #EXTINF:-1 tvg-id="vovtvhd" tvg-name="VOVTV" group-title="VOV" tvg-logo="https://i.imgur.com/QjJ0Ic4.png",VOVTV
