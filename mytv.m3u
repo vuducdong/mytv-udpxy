@@ -49,18 +49,9 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.1.74:8418
 #------------------------VTVcab------------------------#
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVcab3_ON Sports HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/TFuB8RQ.png",VTVcab3_ON Sports HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.242:11374
-#EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVcab16_ON Football HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/Nu9R94c.png",VTVcab16_ON Football HD
-http://f56ba39027.vws.khanggtivi.xyz/vieon/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/vtvcab16-on-football/playlist.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab5hd" tvg-name="VTVcab5_E Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/4CIWrMM.png",VTVcab5_E Channel
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.76:11596
-#EXTINF:-1 tvg-name="ON GOLF HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/VRXkC5n.png",ON GOLF HD
-http://f56ba39027.vws.khanggtivi.xyz/360/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/chunklist.m3u8?vstv=169
-#EXTINF:-1 tvg-id="vtvcab6hd" tvg-name="VTVcab6_OnSports+HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/5m2tXYq.png",VTVcab6_OnSports+HD
-http://f56ba39027.vws.khanggtivi.xyz/vieon/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/vtvcab6-on-sport-plus/playlist.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="VTVcab18_ON Sports News Premium" group-title="VTVcab" tvg-logo="https://i.imgur.com/WSMAoYn.png",VTVcab18_ON Sports News Premium
-http://f56ba39027.vws.khanggtivi.xyz/vieon/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/vtvcab18-on-sports-news/playlist.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="VTVcab18_ON Sports News Premium" group-title="VTVcab" tvg-logo="https://i.imgur.com/WSMAoYn.png",VTVcab18_ON Sports News Premium
-http://f56ba39027.vws.khanggtivi.xyz/vieon/6bvAeEBllKlDKEhBM1dwIGkj1fSYehpTcaMkKyWHb4DgYQY/1701935185/vtvcab18-on-sports-news/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" tvg-name="K+CINE" group-title="VTVcab" tvg-logo="https://i.imgur.com/E8MhzOa.png",K+CINE
 http://stream2.khanggtivi.xyz:1234/stream/kplus/kcine/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
