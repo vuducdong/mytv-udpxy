@@ -27,24 +27,6 @@ http://172.17.0.2:4000/rtp/232.84.2.202:10996
 http://172.17.0.2:4000/rtp/232.84.3.104:10612
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 HD" group-title="VTV" tvg-logo="https://i.imgur.com/dqBM1GR.png",VTV9 HD
 http://172.17.0.2:4000/rtp/232.84.2.35:10618
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 SD" group-title="VTV" tvg-logo="https://i.imgur.com/wmeoNvN.png",VTV1 SD
-http://172.17.0.2:4000/rtp/232.84.1.27:8136
-#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 SD" group-title="VTV" tvg-logo="https://i.imgur.com/eKdp0k4.png",VTV2 SD
-http://172.17.0.2:4000/rtp/232.84.1.39:8208
-#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 SD" group-title="VTV" tvg-logo="https://i.imgur.com/KDR58RR.png",VTV3 SD
-http://172.17.0.2:4000/rtp/232.84.1.28:8142
-#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 SD" group-title="VTV" tvg-logo="https://i.imgur.com/G6uVWLi.png",VTV4 SD
-http://172.17.0.2:4000/rtp/232.84.1.40:8214
-#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 SD" group-title="VTV" tvg-logo="https://i.imgur.com/Rzi9LxP.png",VTV5 SD
-http://172.17.0.2:4000/rtp/232.84.1.41:8220
-#EXTINF:-1 tvg-name="VTV Cần Thơ SD" group-title="VTV" tvg-logo="https://i.imgur.com/pc6nPic.png",VTV Cần Thơ SD
-http://172.17.0.2:4000/rtp/232.84.1.42:8226
-#EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 SD" group-title="VTV" tvg-logo="https://i.imgur.com/1nOMCqM.png",VTV7 SD
-http://172.17.0.2:4000/rtp/232.84.2.201:10990
-#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 SD" group-title="VTV" tvg-logo="https://i.imgur.com/tjA1fU8.png",VTV8 SD
-http://172.17.0.2:4000/rtp/232.84.1.148:8862
-#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 SD" group-title="VTV" tvg-logo="https://i.imgur.com/rUeimhI.png",VTV9 SD
-http://172.17.0.2:4000/rtp/232.84.1.241:9420
 
 #------------------------VTVcab------------------------#
 #EXTINF:-1 tvg-id="vtvcab4hd" tvg-name="ON Movies" group-title="VTVcab" tvg-logo="https://i.imgur.com/kovX56b.png",ON Movies
@@ -584,6 +566,10 @@ http://172.17.0.2:4000/rtp/232.84.3.243:11380
 http://172.17.0.2:4000/rtp/232.84.3.76:11596
 #EXTINF:-1 tvg-name="ON GOLF HD" group-title="VTVcab_DRM" tvg-logo="https://i.imgur.com/VRXkC5n.png",ON GOLF HD
 http://172.17.0.2:4000/rtp/232.84.3.244:11386
+#EXTINF:-1 tvg-name="SPOTV" group-title="VTVcab_DRM" tvg-logo="https://i.imgur.com/WboSBgl.jpg",SPOTV
+http://172.17.0.2:4000/rtp/232.84.3.111:10666
+#EXTINF:-1 tvg-name="SPOTV2" group-title="VTVcab_DRM" tvg-logo="https://i.imgur.com/WboSBgl.jpg",SPOTV2
+http://172.17.0.2:4000/rtp/232.84.3.129:10672
 
 #-----------------------🅺✚-------------------------#
 #EXTINF:-1 tvg-id="kcinehd" tvg-name="K+CINE" group-title="🅺✚" tvg-logo="https://i.imgur.com/E8MhzOa.png",K+CINE
@@ -603,3 +589,5 @@ http://1.53.228.133:1935/live/kactionhd.stream/playlist.m3u8
 http://1.53.228.133:1935/live/ksport1hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kplus" tvg-id="ksport2hd" tvg-logo="https://img.lichphatsong.xyz/logo/ksport2hd.jpg", K+Sport2 50fps
 http://1.53.228.133:1935/live/ksport2hd.stream/playlist.m3u8
+
+
