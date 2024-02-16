@@ -35,7 +35,7 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.3.136:10720
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.120:10726
 #EXTINF:-1 tvg-id="vtc9hd" tvg-name="VTC9 HD" group-title="VTC" tvg-logo="https://i.imgur.com/aO2jQ3Q.png",VTC9 HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.141:10732
-#EXTINF:-1 tvg-id="vtc10hd" tvg-name="VTC10 HD" group-title="VTC" tvg-logo="https://i.imgur.com/78uoTuy.png",VTC10 HD
+#EXTINF:-1 tvg-id="vtc10" tvg-name="VTC10 HD" group-title="VTC" tvg-logo="https://i.imgur.com/78uoTuy.png",VTC10 HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.87:11530
 #EXTINF:-1 tvg-id="vtc13hd" tvg-name="VTC13 HD" group-title="VTC" tvg-logo="https://i.imgur.com/3VRaf9e.png",VTC13 HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.74:8418
