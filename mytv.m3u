@@ -83,7 +83,7 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.1.31:8160
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.24:8118
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THỂ THAO HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/eX0ZNpi.png",HTV THỂ THAO HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.88:11524
-#EXTINF:-1 tvg-id="dulichcuocsong" tvg-name="HTVC DU LỊCH VÀ CUỘC SỐNG" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/eJrN2C6.png",DU LỊCH VÀ CUỘC SỐNG
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-name="HTVC Du Lịch HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/eJrN2C6.png",HTVC Du Lịch HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.221:9300
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-name="HTVC GIA DINH" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Wpp9DpW.png",GIA ĐÌNH
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.170:8994
