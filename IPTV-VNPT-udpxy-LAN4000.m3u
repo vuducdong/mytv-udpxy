@@ -107,7 +107,7 @@ http://172.17.0.2:4000/rtp/232.84.2.182:9306
 http://172.17.0.2:4000/rtp/232.84.1.223:9312
 #EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9 HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/IsTEZFb.png",HTV9 HD
 http://172.17.0.2:4000/rtp/232.84.1.224:9318
-#EXTINF:-1 tvg-id="htvcphimtruyenhd" tvg-name="HTVC HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/5X1BPGr.png",HTVC HD
+#EXTINF:-1 tvg-id="htvcphimhd" tvg-name="HTVC Phim HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/5X1BPGr.png",HTVC Phim HD
 http://172.17.0.2:4000/rtp/232.84.3.118:9594
 #EXTINF:-1 tvg-id="tvg-id="htvcthuanviethd" tvg-name="HTVC Thuần Việt HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/kagLn7r.png",HTVC Thuần Việt HD
 http://172.17.0.2:4000/rtp/232.84.2.134:9600
