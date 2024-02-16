@@ -190,7 +190,7 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.3.128:10624
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.157:10696
 #EXTINF:-1 tvg-id="cartoonhd" tvg-name="Cartoon Network HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/OLeTUpu.png",Cartoon Network HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.144:10684
-#EXTINF:-1 tvg-id="musicboxhd" tvg-name="MusicBox HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/s3ZqjxQ.png",MusicBox HD
+#EXTINF:-1 tvg-id="musicbox" tvg-name="MusicBox" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/s3ZqjxQ.png",MusicBox
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.13:8052
 #EXTINF:-1 tvg-id="channelnewsasia" tvg-name="Channel NewsAsia HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/MztDCW5.png",Channel NewsAsia HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.155:10540
@@ -214,11 +214,11 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.3.117:10654
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.1:7980
 #EXTINF:-1 tvg-id="ngwhd" tvg-name="NAT GEO WILD HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/lRBt7my.png",NAT GEO WILD HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.123:8454
-#EXTINF:-1 tvg-id="nhkworldhd" tvg-name="NHK World Japan HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/OJd9r6E.png",NHK WORLD JAPAN HD
+#EXTINF:-1 tvg-id="nhkworld" tvg-name="NHK World Japan" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/OJd9r6E.png",NHK WORLD JAPAN
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.72:8406
 #EXTINF:-1 tvg-id="outdoorhd" tvg-name="Outdoor Channel HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/5DNGnwA.png",Outdoor Channel HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.107:10218
-#EXTINF:-1 tvg-id="cinemaworld" tvg-name="CinemaWorld HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ez78vFK.png",CinemaWorld HD
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-name="Cinema World HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ez78vFK.png",Cinema World HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.103:10840
 #EXTINF:-1 tvg-id="tlchd" tvg-name="Travel & Living HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KZqwTe4.png",Travel & Living HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.156:10708
@@ -238,7 +238,7 @@ http://cloud.vuducdong.uk:8383/rtp/@232.84.1.18:8082
 http://cloud.vuducdong.uk:8383/rtp/@232.84.3.222:11254
 #EXTINF:-1 tvg-id="dreamworks" tvg-name="Dreamwork HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/zE5oU1T.png",Dreamwork HD
 http://cloud.vuducdong.uk:8383/rtp/@232.84.3.227:11284
-#EXTINF:-1 tvg-id="hitshd" tvg-name="HITS HD" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/fWt2wzw.png",HITS HD
+#EXTINF:-1 tvg-id="hits" tvg-name="HITS" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/fWt2wzw.png",HITS
 http://cloud.vuducdong.uk:8383/rtp/@232.84.3.214:11206
 
 #------------------------MyTV------------------------#
