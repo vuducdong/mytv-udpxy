@@ -62,7 +62,7 @@ http://172.17.0.2:4000/rtp/232.84.3.136:10720
 http://172.17.0.2:4000/rtp/232.84.3.120:10726
 #EXTINF:-1 tvg-id="vtc9hd" tvg-name="VTC9 HD" group-title="VTC" tvg-logo="https://i.imgur.com/aO2jQ3Q.png",VTC9 HD
 http://172.17.0.2:4000/rtp/232.84.3.141:10732
-#EXTINF:-1 tvg-id="vtc10hd" tvg-name="VTC10 HD" group-title="VTC" tvg-logo="https://i.imgur.com/78uoTuy.png",VTC10 HD
+#EXTINF:-1 tvg-id="vtc10" tvg-name="VTC10 HD" group-title="VTC" tvg-logo="https://i.imgur.com/78uoTuy.png",VTC10 HD
 http://172.17.0.2:4000/rtp/232.84.3.87:11530
 #EXTINF:-1 tvg-id="vtc13hd" tvg-name="VTC13 HD" group-title="VTC" tvg-logo="https://i.imgur.com/3VRaf9e.png",VTC13 HD
 http://172.17.0.2:4000/rtp/232.84.1.74:8418
@@ -81,19 +81,19 @@ http://172.17.0.2:4000/rtp/232.84.2.38:10636
 http://172.17.0.2:4000/rtp/232.84.3.58:11704
 #EXTINF:-1 tvg-id="vtc7hd" tvg-name="VTC7 SD - TODAYTV" group-title="VTC" tvg-logo="https://i.imgur.com/EeGAtuK.png",VTC7 SD - TODAYTV
 http://172.17.0.2:4000/rtp/232.84.1.213:9252
-#EXTINF:-1 tvg-id="vtc8hd" tvg-name="VTC8 SD" group-title="VTC" tvg-logo="https://i.imgur.com/hdHt582.png",VTC8 SD
+#EXTINF:-1 tvg-id="vtc8" tvg-name="VTC8 SD" group-title="VTC" tvg-logo="https://i.imgur.com/hdHt582.png",VTC8 SD
 http://172.17.0.2:4000/rtp/232.84.2.39:10642
 #EXTINF:-1 tvg-id="vtc9hd" tvg-name="VTC9 SD" group-title="VTC" tvg-logo="https://i.imgur.com/7tcqK9P.png",VTC9 SD
 http://172.17.0.2:4000/rtp/232.84.1.59:8334
-#EXTINF:-1 tvg-id="vtc10hd" tvg-name="VTC10 SD" group-title="VTC" tvg-logo="https://i.imgur.com/qnZHuvb.png",VTC10 SD
+#EXTINF:-1 tvg-id="vtc10" tvg-name="VTC10 SD" group-title="VTC" tvg-logo="https://i.imgur.com/qnZHuvb.png",VTC10 SD
 http://172.17.0.2:4000/rtp/232.84.1.214:9258
-#EXTINF:-1 tvg-id="vtc11hd" tvg-name="VTC11 SD" group-title="VTC" tvg-logo="https://i.imgur.com/6jUpTX4.png",VTC11 SD
+#EXTINF:-1 tvg-id="vtc11" tvg-name="VTC11 SD" group-title="VTC" tvg-logo="https://i.imgur.com/6jUpTX4.png",VTC11 SD
 http://172.17.0.2:4000/rtp/232.84.1.61:8340
 #EXTINF:-1 tvg-id="vtc13hd" tvg-name="VTC13 SD" group-title="VTC" tvg-logo="https://i.imgur.com/xc2G48h.png",VTC13 SD
 http://172.17.0.2:4000/rtp/232.84.1.62:8346
 #EXTINF:-1 tvg-id="vtc14hd" tvg-name="VTC14 SD" group-title="VTC" tvg-logo="https://i.imgur.com/DeSDCrh.png",VTC14 SD
 http://172.17.0.2:4000/rtp/232.84.1.216:9270
-#EXTINF:-1 tvg-id="vtc16hd" tvg-name="VTC16 SD" group-title="VTC" tvg-logo="https://i.imgur.com/iifV1Va.png",VTC16 SD
+#EXTINF:-1 tvg-id="vtc16" tvg-name="VTC16 SD" group-title="VTC" tvg-logo="https://i.imgur.com/iifV1Va.png",VTC16 SD
 http://172.17.0.2:4000/rtp/232.84.1.215:9264
 
 #------------------------VOV------------------------#
