@@ -497,7 +497,7 @@ http://172.17.0.2:4000/rtp/232.84.1.20:8094
 http://172.17.0.2:4000/rtp/232.84.3.192:11074
 #EXTINF:-1 tvg-id="ngchd" tvg-name="National Geographic SD" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/LT6Tn2x.png",NATIONAL GEOGRAPHIC SD
 http://172.17.0.2:4000/rtp/232.84.2.122:8364
-#EXTINF:-1 tvg-id="nhkworldhd" tvg-name="NHK World-Japan SD" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Mb856EP.png",NHK WORLD JAPAN SD
+#EXTINF:-1 tvg-id="nhkworld" tvg-name="NHK World-Japan SD" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Mb856EP.png",NHK WORLD JAPAN SD
 http://172.17.0.2:4000/rtp/232.84.1.8:8022
 #EXTINF:-1 tvg-id="nhkworldhd" tvg-name="NHK Japan SD" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/mknS1CV.png",NHK Premium SD
 http://172.17.0.2:4000/rtp/232.84.3.172:10494
@@ -511,7 +511,7 @@ http://172.17.0.2:4000/rtp/232.84.3.190:11062
 http://172.17.0.2:4000/rtp/232.84.2.127:8544
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/xaSTZiI.png",Rai Italia SD
 http://172.17.0.2:4000/rtp/232.84.2.124:8358
-#EXTINF:-1 tvg-id="cinemaworld" tvg-name="Cinema World (SD)" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Ez78vFK.png",Cinema World SD
+#EXTINF:-1 tvg-id="cinemaworldhd" tvg-name="Cinema World (SD)" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Ez78vFK.png",Cinema World SD
 http://172.17.0.2:4000/rtp/232.84.1.44:8244
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/CGIkFjB.png",Russia Today SD
 http://172.17.0.2:4000/rtp/232.84.2.125:8538
@@ -565,11 +565,11 @@ http://172.17.0.2:4000/rtp/232.84.3.242:11374
 http://172.17.0.2:4000/rtp/232.84.3.243:11380
 #EXTINF:-1 tvg-id="vtvcab5hd" tvg-name="VTVcab5_E Channel" group-title="VTVcab_DRM" tvg-logo="https://i.imgur.com/4CIWrMM.png",VTVcab5_E Channel
 http://172.17.0.2:4000/rtp/232.84.3.76:11596
-#EXTINF:-1 tvg-name="ON GOLF HD" group-title="VTVcab_DRM" tvg-logo="https://i.imgur.com/VRXkC5n.png",ON GOLF HD
+#EXTINF:-1 tvg-id="vtvcab23hd" tvg-name="ON GOLF HD" group-title="VTVcab_DRM" tvg-logo="https://i.imgur.com/VRXkC5n.png",ON GOLF HD
 http://172.17.0.2:4000/rtp/232.84.3.244:11386
-#EXTINF:-1 tvg-name="SPOTV" group-title="VTVcab_DRM" tvg-logo="https://i.imgur.com/WboSBgl.jpg",SPOTV
+#EXTINF:-1 tvg-id="spotv1"tvg-name="SPOTV1 HD" group-title="VTVcab_DRM" tvg-logo="https://i.imgur.com/WboSBgl.jpg",SPOTV1 HD
 http://172.17.0.2:4000/rtp/232.84.3.111:10666
-#EXTINF:-1 tvg-name="SPOTV2" group-title="VTVcab_DRM" tvg-logo="https://i.imgur.com/WboSBgl.jpg",SPOTV2
+#EXTINF:-1 tvg-id="spotv2" tvg-name="SPOTV2 HD" group-title="VTVcab_DRM" tvg-logo="https://i.imgur.com/5YpKN1T.jpg",SPOTV2 HD
 http://172.17.0.2:4000/rtp/232.84.3.129:10672
 
 #-----------------------🅺✚-------------------------#
