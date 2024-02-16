@@ -65,6 +65,8 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.1.223:9312
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.224:9318
 #EXTINF:-1 tvg-id="htvcphimhd" tvg-name="HTVC Phim HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/5X1BPGr.png",HTVC Phim HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.118:9594
+#EXTINF:-1 tvg-id="htvcthuanviet" tvg-name="HTVC Thuần Việt SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Ks9yWa1.png",HTVC Thuần Việt SD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.22:8106
 #EXTINF:-1 tvg-id="tvg-id="htvcthuanviethd" tvg-name="HTVC Thuần Việt HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Ks9yWa1.png",HTVC Thuần Việt HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.134:9600
 #EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
@@ -97,8 +99,6 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.3.245:11392
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.127:8736
 #EXTINF:-1 tvg-id="htvcphunuhd" tvg-name="HTVC Phụ Nữ HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Zq00lJR.png",HTVC Phụ Nữ HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.51:11746
-#EXTINF:-1 tvg-id="htvcthuanviet" tvg-name="HHTVC Thuần Việt SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Ks9yWa1.png",HTVC Thuần Việt SD
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.22:8106
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-name="HTVC Ca Nhạc SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/BM2SCQ4.png",HTVC Ca Nhạc SD
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.126:8730
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-name="HTVC Ca Nhạc HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/BM2SCQ4.png",HTVC Ca Nhạc HD
