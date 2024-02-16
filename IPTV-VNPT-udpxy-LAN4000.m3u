@@ -158,7 +158,7 @@ http://172.17.0.2:4000/rtp/232.84.2.181:10290
 #EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/bZkReWB.png",QPVN HD
 http://172.17.0.2:4000/rtp/232.84.3.127:10816
 #EXTINF:-1 tvg-id="vnews" tvg-name="THONG TAN XA VIET NAM" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/o0na2tQ.png",VNEWS HD
-http://172.17.0.2:4000/rtp/232.84.3.125:10434http://172.17.0.2:4000/rtp/232.84.3.125:10434
+http://172.17.0.2:4000/rtp/232.84.3.125:10434
 #EXTINF:-1 tvg-name="antvhd" tvg-name="ANTV HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/nOb4rPT.png",ANTV HD
 http://172.17.0.2:4000/rtp/232.84.1.212:9246
 #EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN (SD)" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/bZkReWB.png",QPVN SD
