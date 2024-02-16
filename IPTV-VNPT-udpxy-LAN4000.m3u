@@ -151,9 +151,9 @@ http://172.17.0.2:4000/rtp/232.84.3.54:11728
 #------------------------Thiết Yếu------------------------#
 #EXTINF:-1 tvg-id="nhandan" tvg-name="Nhân Dân TV" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/20sj8kS.png",Nhân Dân TV
 http://172.17.0.2:4000/rtp/232.84.3.124:10822
-#EXTINF:-1 tvg-id="quochoi" tvg-name="QUỐC HỘI" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/hFnhJBM.png",QUỐC HỘI
+#EXTINF:-1 tvg-id="quochoihd" tvg-name="QUỐC HỘI SD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/fPofl0Q.png",QUỐC HỘI SD
 http://172.17.0.2:4000/rtp/232.84.1.234:10290
-#EXTINF:-1 tvg-id="quochoihd" tvg-name="QUỐC HỘI HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/hFnhJBM.png",QUỐC HỘI HD
+#EXTINF:-1 tvg-id="quochoihd" tvg-name="QUỐC HỘI HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/fPofl0Q.png",QUỐC HỘI HD
 http://172.17.0.2:4000/rtp/232.84.2.181:10290
 #EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/bZkReWB.png",QPVN HD
 http://172.17.0.2:4000/rtp/232.84.3.127:10816
