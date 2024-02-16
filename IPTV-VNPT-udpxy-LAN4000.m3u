@@ -69,7 +69,7 @@ http://172.17.0.2:4000/rtp/232.84.1.74:8418
 
 #EXTINF:-1 tvg-id="vtc1hd" tvg-name="VTC1 SD" group-title="VTC" tvg-logo="https://i.imgur.com/uI9Ouw0.png",VTC1 SD
 http://172.17.0.2:4000/rtp/232.84.1.30:8154
-#EXTINF:-1 tvg-id="vtc2hd" tvg-name="VTC2 SD" group-title="VTC" tvg-logo="https://i.imgur.com/roKaMTG.png",VTC2 SD
+#EXTINF:-1 tvg-id="vtc2" tvg-name="VTC2 SD" group-title="VTC" tvg-logo="https://i.imgur.com/roKaMTG.png",VTC2 SD
 http://172.17.0.2:4000/rtp/232.84.1.57:8322
 #EXTINF:-1 tvg-id="vtc3hd" tvg-name="VTC3 SD" group-title="VTC" tvg-logo="https://i.imgur.com/nJktZYT.png",VTC3 SD
 http://172.17.0.2:4000/rtp/232.84.1.60:8232
