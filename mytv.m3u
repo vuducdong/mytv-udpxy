@@ -115,7 +115,7 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.2.181:10290
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.127:10816
 #EXTINF:-1 tvg-id="vnews" tvg-name="THONG TAN XA VIET NAM" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/o0na2tQ.png",VNEWS HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.125:10434
-#EXTINF:-1 tvg-name="ANTV" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/nOb4rPT.png",ANTV
+#EXTINF:-1 tvg-name="antvhd" tvg-name="ANTV HD" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/nOb4rPT.png",ANTV HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.212:9246
 #EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN (SD)" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/bZkReWB.png",QPVN SD
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.228:9342
