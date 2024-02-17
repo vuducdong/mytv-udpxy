@@ -57,10 +57,20 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.3.129:10672
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.46:8256
 
 #------------------------HTV/HTVC------------------------#
+#EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.57:11710
+#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2 VieChannel SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KRShW5y.png",HTV2 Vie Channel SD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.36:8190
 #EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2 VieChannel HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KRShW5y.png",HTV2 Vie Channel HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.182:9306
+#EXTINF:-1 tvg-id="htv3hd" tvg-name="HTV3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/TCoIsVF.png",HTV3
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.56:11716
+#EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7 SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/n2PEK28.png",HTV7 SD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.21:8100
 #EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7 HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pNWzP6P.png",HTV7 HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.223:9312
+#EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9 SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/6GSN524.png",HTV9 SD
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.31:8160
 #EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9 HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/IsTEZFb.png",HTV9 HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.224:9318
 #EXTINF:-1 tvg-id="htvcphimhd" tvg-name="HTVC Phim HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/5X1BPGr.png",HTVC Phim HD
@@ -69,18 +79,8 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.3.118:9594
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.22:8106
 #EXTINF:-1 tvg-id="tvg-id="htvcthuanviethd" tvg-name="HTVC Thuần Việt HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/Ks9yWa1.png",HTVC Thuần Việt HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.134:9600
-#EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.57:11710
-#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2 VieChannel SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/KRShW5y.png",HTV2 Vie Channel SD
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.36:8190
-#EXTINF:-1 tvg-id="htv3hd" tvg-name="HTV3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/TCoIsVF.png",HTV3
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.56:11716
 #EXTINF:-1 tvg-id="htvkey" tvg-name="HTV Key" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/qSpTUnK.png",HTV Key
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.55:11722
-#EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7 SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/n2PEK28.png",HTV7 SD
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.21:8100
-#EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9 SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/6GSN524.png",HTV9 SD
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.31:8160
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THỂ THAO SD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/0PBzci0.png",HTV THỂ THAO SD
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.24:8118
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THỂ THAO HD" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/eX0ZNpi.png",HTV THỂ THAO HD
