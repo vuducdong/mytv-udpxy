@@ -12,9 +12,9 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.1.118:10260
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.106:10600
 #EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://i.imgur.com/pN2prZz.png",VTV5 HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.33:10606
-#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 Tây Nam Bộ" group-title="VTV" tvg-logo="https://i.imgur.com/Bulp3KF.png",VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 Tây Nam Bộ" group-title="VTV" tvg-logo="https://i.imgur.com/qiwUQGG.png",VTV5 Tây Nam Bộ
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.86:11542
-#EXTINF:-1 tvg-id="vtvct" tvg-name="VTV Cần Thơ HD" group-title="VTV" tvg-logo="https://i.imgur.com/pc6nPic.png",VTV Cần Thơ HD 
+#EXTINF:-1 tvg-name="VTV Cần Thơ HD" group-title="VTV" tvg-logo="https://i.imgur.com/3YAnuY5.png",VTV Cần Thơ HD 
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.119:10266
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://i.imgur.com/UpGMNcQ.png",VTV7 HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.202:10996
