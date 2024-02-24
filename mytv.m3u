@@ -47,12 +47,8 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="vtvcab5hd" tvg-name="VTVcab5_E Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/4CIWrMM.png",VTVcab5_E Channel
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.76:11596
 
-#EXTINF:-1 tvg-id="spotv1"tvg-name="SPOTV1 HD" group-title="VTVcab_DRM" tvg-logo="https://i.imgur.com/WboSBgl.jpg",SPOTV1 HD
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.111:10666
-#EXTINF:-1 tvg-id="spotv2" tvg-name="SPOTV2 HD" group-title="VTVcab_DRM" tvg-logo="https://i.imgur.com/5YpKN1T.jpg",SPOTV2 HD
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.129:10672
 
- #------------------------VOV------------------------#
+#------------------------VOV------------------------#
 #EXTINF:-1 tvg-id="vovtvhd" tvg-name="VOVTV" group-title="VOV" tvg-logo="https://i.imgur.com/QjJ0Ic4.png",VOVTV
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.46:8256
 
