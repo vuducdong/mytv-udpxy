@@ -47,6 +47,31 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="vtvcab5hd" tvg-name="VTVcab5_E Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/4CIWrMM.png",VTVcab5_E Channel
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.76:11596
 
+#EXTINF:-1 tvg-id="vtvcab4hd" tvg-name="ON Movies" group-title="VTVcab" tvg-logo="https://i.imgur.com/kovX56b.png",ON Movies
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.190:10924
+#EXTINF:-1 tvg-id="vtvcab7hd" tvg-name="ON O2TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/3Nuj0Pf.png",ON O2TV
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.74:11608
+#EXTINF:-1 tvg-id="vtvcab1hd" tvg-name="VTVcab 1 - Vie Giải Trí" group-title="VTVcab" tvg-logo="https://i.imgur.com/jwYaQBr.png",VTVcab 1 _ Vie GIẢI TRÍ
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.143:8832
+#EXTINF:-1 tvg-id="vtvcab2hd" tvg-name="VTVcab 2 - On Phim Việt" group-title="VTVcab" tvg-logo="https://i.imgur.com/h75y2a6.png",VTVcab 2 _ On Phim Việt
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.168:8982
+#EXTINF:-1 tvg-id="vtvcab8hd" tvg-name="ON BiBi" group-title="VTVcab" tvg-logo="https://i.imgur.com/eLPQsrF.png",ON BiBi
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.217:11224
+#EXTINF:-1 tvg-id="vtvcab9hd" tvg-name="ON InfoTV" group-title="VTVcab" tvg-logo="https://i.imgur.com/KJvU2MJ.png",ON InfoTV
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.191:10930
+#EXTINF:-1 tvg-id="vtvcab10hd" tvg-name="ON Cine" group-title="VTVcab" tvg-logo="https://i.imgur.com/7hoXNsb.png",ON Cine
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.205:9204
+#EXTINF:-1 tvg-id="vtvcab12hd" tvg-name="VTVcab 12 - Style TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/8ZLy5E9.png",VTVcab 12 _ Style TV
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.244:9438
+#EXTINF:-1 tvg-id="vtvcab15hd" tvg-name="ON Music" group-title="VTVcab" tvg-logo="https://i.imgur.com/JObbdLK.png",ON Music
+http://cloud.vuducdong.uk:8383/rtp/232.84.2.192:10936
+#EXTINF:-1 tvg-id="vtvcab17hd" tvg-name="ON TrendingTv" group-title="VTVcab" tvg-logo="https://i.imgur.com/DAGT4ox.png",ON TrendingTv
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.217:9276
+#EXTINF:-1 tvg-id="vtvcab19hd" tvg-name="VTVcab 19 - Vie Dramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/5aKAjKw.png",VTVcab 19 _ Vie Dramas
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.218:11230
+#EXTINF:-1 tvg-id="vtvcab20hd" tvg-name="ON VFamily" group-title="VTVcab" tvg-logo="https://i.imgur.com/1OOW7rU.png",ON VFamily
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.245:10344
+
 
 #------------------------VOV------------------------#
 #EXTINF:-1 tvg-id="vovtvhd" tvg-name="VOVTV" group-title="VOV" tvg-logo="https://i.imgur.com/QjJ0Ic4.png",VOVTV
