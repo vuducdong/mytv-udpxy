@@ -47,7 +47,7 @@ http://172.17.0.4:7088/rtp/232.84.2.193:10942
 http://172.17.0.4:7088/rtp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="onfootball" tvg-name="ON Football HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/Nu9R94c.png",ON Football HD
 http://172.17.0.4:7088/rtp/232.84.3.243:11380
-#EXTINF:-1 tvg-id="vtvcab5hd" tvg-name="E Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/4CIWrMM.png",E Channel
+#EXTINF:-1 tvg-id="vtvcab5hd" tvg-name="ON E Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/4CIWrMM.png",ON E Channel
 http://172.17.0.4:7088/rtp/232.84.3.76:11596
 #EXTINF:-1 tvg-id="vtvcab23hd" tvg-name="ON GOLF HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/VRXkC5n.png",ON GOLF HD
 http://172.17.0.4:7088/rtp/232.84.3.244:11386
@@ -59,7 +59,7 @@ http://172.17.0.4:7088/rtp/232.84.3.129:10672
 http://172.17.0.4:7088/rtp/232.84.2.190:10924
 #EXTINF:-1 tvg-id="vtvcab7hd" tvg-name="ON O2TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/3Nuj0Pf.png",ON O2TV
 http://172.17.0.4:7088/rtp/232.84.3.74:11608
-#EXTINF:-1 tvg-id="vtvcab1hd" tvg-name="Vie Giải Trí" group-title="VTVcab" tvg-logo="https://i.imgur.com/jwYaQBr.png",Vie GIẢI TRÍ
+#EXTINF:-1 tvg-id="vtvcab1hd" tvg-name="ON Vie Giải Trí" group-title="VTVcab" tvg-logo="https://i.imgur.com/jwYaQBr.png",ON Vie Giải Trí
 http://172.17.0.4:7088/rtp/232.84.1.143:8832
 #EXTINF:-1 tvg-id="vtvcab2hd" tvg-name="On Phim Việt" group-title="VTVcab" tvg-logo="https://i.imgur.com/h75y2a6.png",ON Phim Việt
 http://172.17.0.4:7088/rtp/232.84.1.168:8982
