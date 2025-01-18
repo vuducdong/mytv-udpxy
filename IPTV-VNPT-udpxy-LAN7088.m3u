@@ -39,15 +39,15 @@ http://172.17.0.4:7088/rtp/232.84.1.176:10374
 
 
 #------------------------VTVcab------------------------#
-#EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVcab_ON Sports+" group-title="VTVcab" tvg-logo="https://i.imgur.com/TFuB8RQ.png",VTVcab_ON Sports+
+#EXTINF:-1 tvg-id="onsportsplus" tvg-name="ON Sports+" group-title="VTVcab" tvg-logo="https://i.imgur.com/TFuB8RQ.png",ON Sports+
 http://172.17.0.4:7088/rtp/232.84.1.220:9294
-#EXTINF:-1 tvg-id="vtvcab18hd" tvg-name="VTVcab18_ON Sports News Premium" group-title="VTVcab" tvg-logo="https://i.imgur.com/WSMAoYn.png",VTVcab18_ON Sports News Premium
+#EXTINF:-1 tvg-id="onsportsnews" tvg-name="ON Sports News" group-title="VTVcab" tvg-logo="https://i.imgur.com/WSMAoYn.png",ON Sports News
 http://172.17.0.4:7088/rtp/232.84.2.193:10942
-#EXTINF:-1 tvg-id="vtvcab3hd" tvg-name="VTVcab3_ON Sports HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/TFuB8RQ.png",VTVcab3_ON Sports HD
+#EXTINF:-1 tvg-id="onsports" tvg-name="ON Sports HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/TFuB8RQ.png",ON Sports HD
 http://172.17.0.4:7088/rtp/232.84.3.242:11374
-#EXTINF:-1 tvg-id="vtvcab16hd" tvg-name="VTVcab16_ON Football HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/Nu9R94c.png",VTVcab16_ON Football HD
+#EXTINF:-1 tvg-id="onfootball" tvg-name="ON Football HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/Nu9R94c.png",ON Football HD
 http://172.17.0.4:7088/rtp/232.84.3.243:11380
-#EXTINF:-1 tvg-id="vtvcab5hd" tvg-name="VTVcab5_E Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/4CIWrMM.png",VTVcab5_E Channel
+#EXTINF:-1 tvg-id="vtvcab5hd" tvg-name="E Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/4CIWrMM.png",E Channel
 http://172.17.0.4:7088/rtp/232.84.3.76:11596
 #EXTINF:-1 tvg-id="vtvcab23hd" tvg-name="ON GOLF HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/VRXkC5n.png",ON GOLF HD
 http://172.17.0.4:7088/rtp/232.84.3.244:11386
@@ -59,9 +59,9 @@ http://172.17.0.4:7088/rtp/232.84.3.129:10672
 http://172.17.0.4:7088/rtp/232.84.2.190:10924
 #EXTINF:-1 tvg-id="vtvcab7hd" tvg-name="ON O2TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/3Nuj0Pf.png",ON O2TV
 http://172.17.0.4:7088/rtp/232.84.3.74:11608
-#EXTINF:-1 tvg-id="vtvcab1hd" tvg-name="VTVcab 1 - Vie Giải Trí" group-title="VTVcab" tvg-logo="https://i.imgur.com/jwYaQBr.png",VTVcab 1 _ Vie GIẢI TRÍ
+#EXTINF:-1 tvg-id="vtvcab1hd" tvg-name="Vie Giải Trí" group-title="VTVcab" tvg-logo="https://i.imgur.com/jwYaQBr.png",Vie GIẢI TRÍ
 http://172.17.0.4:7088/rtp/232.84.1.143:8832
-#EXTINF:-1 tvg-id="vtvcab2hd" tvg-name="VTVcab 2 - On Phim Việt" group-title="VTVcab" tvg-logo="https://i.imgur.com/h75y2a6.png",VTVcab 2 _ On Phim Việt
+#EXTINF:-1 tvg-id="vtvcab2hd" tvg-name="On Phim Việt" group-title="VTVcab" tvg-logo="https://i.imgur.com/h75y2a6.png",ON Phim Việt
 http://172.17.0.4:7088/rtp/232.84.1.168:8982
 #EXTINF:-1 tvg-id="vtvcab8hd" tvg-name="ON BiBi" group-title="VTVcab" tvg-logo="https://i.imgur.com/eLPQsrF.png",ON BiBi
 http://172.17.0.4:7088/rtp/232.84.3.217:11224
@@ -69,13 +69,13 @@ http://172.17.0.4:7088/rtp/232.84.3.217:11224
 http://172.17.0.4:7088/rtp/232.84.2.191:10930
 #EXTINF:-1 tvg-id="vtvcab10hd" tvg-name="ON Cine" group-title="VTVcab" tvg-logo="https://i.imgur.com/7hoXNsb.png",ON Cine
 http://172.17.0.4:7088/rtp/232.84.1.205:9204
-#EXTINF:-1 tvg-id="vtvcab12hd" tvg-name="VTVcab 12 - Style TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/8ZLy5E9.png",VTVcab 12 _ Style TV
+#EXTINF:-1 tvg-id="vtvcab12hd" tvg-name="Style TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/8ZLy5E9.png",Style TV
 http://172.17.0.4:7088/rtp/232.84.1.244:9438
 #EXTINF:-1 tvg-id="vtvcab15hd" tvg-name="ON Music" group-title="VTVcab" tvg-logo="https://i.imgur.com/JObbdLK.png",ON Music
 http://172.17.0.4:7088/rtp/232.84.2.192:10936
 #EXTINF:-1 tvg-id="vtvcab17hd" tvg-name="ON TrendingTv" group-title="VTVcab" tvg-logo="https://i.imgur.com/DAGT4ox.png",ON TrendingTv
 http://172.17.0.4:7088/rtp/232.84.1.217:9276
-#EXTINF:-1 tvg-id="vtvcab19hd" tvg-name="VTVcab 19 - Vie Dramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/5aKAjKw.png",VTVcab 19 _ Vie Dramas
+#EXTINF:-1 tvg-id="vtvcab19hd" tvg-name="Vie Dramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/5aKAjKw.png",Vie Dramas
 http://172.17.0.4:7088/rtp/232.84.3.218:11230
 #EXTINF:-1 tvg-id="vtvcab20hd" tvg-name="ON VFamily" group-title="VTVcab" tvg-logo="https://i.imgur.com/1OOW7rU.png",ON VFamily
 http://172.17.0.4:7088/rtp/232.84.1.245:10344
