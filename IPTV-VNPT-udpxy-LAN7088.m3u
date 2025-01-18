@@ -2,25 +2,25 @@
 
 
 #------------------------VTV ✚ Hanoi------------------------#
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/zTFKdA3.png",VTV1
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/nEH53s1.png",VTV1
 http://172.17.0.4:7088/rtp/232.84.1.117:10254
-#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2 HD" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/hlUIBRP.png",VTV2
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/9ZxLR8d.png",VTV2
 http://172.17.0.4:7088/rtp/232.84.2.31:10594
-#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3 HD" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/g4QS4ZO.png",VTV3
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/QWlILdK.png",VTV3
 http://172.17.0.4:7088/rtp/232.84.1.118:10260
-#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 HD" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/KAvgHBf.png",VTV4
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/9AJZzNb.png",VTV4
 http://172.17.0.4:7088/rtp/232.84.3.106:10600
-#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5 HD" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/pN2prZz.png",VTV5
+EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/CnwDB0i.png",VTV5
 http://172.17.0.4:7088/rtp/232.84.2.33:10606
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 Tây Nam Bộ" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/qiwUQGG.png",VTV5 Tây Nam Bộ
 http://172.17.0.4:7088/rtp/232.84.3.86:11542
-#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV Cần Thơ HD" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/3YAnuY5.png",VTV Cần Thơ 
+#EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV Cần Thơ" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/3YAnuY5.png",VTV Cần Thơ 
 http://172.17.0.4:7088/rtp/232.84.1.119:10266
-#EXTINF:-11 tvg-id="vtv7hd" tvg-name="VTV7 HD" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/UpGMNcQ.png",VTV7
+#EXTINF:-11 tvg-id="vtv7hd" tvg-name="VTV7" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/csDXrtg.png",VTV7
 http://172.17.0.4:7088/rtp/232.84.2.202:10996
-#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 HD" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/DEJkqG7.png",VTV8
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/78k8UY9.png",VTV8
 http://172.17.0.4:7088/rtp/232.84.3.104:10612
-#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 HD" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/dqBM1GR.png",VTV9
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/szwzNvi.png",VTV9
 http://172.17.0.4:7088/rtp/232.84.2.35:10618
 #EXTINF:-1 tvg-id="hanoi1" tvg-name="HANOI 1" group-title="VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/2fHroPI.png",Hà Nội 1
 http://172.17.0.4:7088/rtp/232.84.3.143:10738
