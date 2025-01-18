@@ -59,7 +59,7 @@ http://172.17.0.2:8383/rtp/232.84.3.129:10672
 http://172.17.0.2:8383/rtp/232.84.2.190:10924
 #EXTINF:-1 tvg-id="vtvcab7hd" tvg-name="ON O2TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/3Nuj0Pf.png",ON O2TV
 http://172.17.0.2:8383/rtp/232.84.3.74:11608
-#EXTINF:-1 tvg-id="vtvcab1hd" tvg-name="ON Vie Giải Trí" group-title="VTVcab" tvg-logo="https://i.imgur.com/jwYaQBr.png",ON Vie Giải Trí
+#EXTINF:-1 tvg-id="vtvcab1hd" tvg-name="ON Vie Giải Trí" group-title="VTVcab" tvg-logo="https://i.imgur.com/1lB5tyf.png",ON Vie Giải Trí
 http://172.17.0.2:8383/rtp/232.84.1.143:8832
 #EXTINF:-1 tvg-id="vtvcab2hd" tvg-name="On Phim Việt" group-title="VTVcab" tvg-logo="https://i.imgur.com/h75y2a6.png",ON Phim Việt
 http://172.17.0.2:8383/rtp/232.84.1.168:8982
