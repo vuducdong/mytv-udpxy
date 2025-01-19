@@ -28,32 +28,34 @@ http://172.17.0.2:8383/rtp/232.84.3.143:10738
 http://172.17.0.2:8383/rtp/232.84.3.137:10744
 
 #-----------------------🅺✚-------------------------#
-#EXTINF:-1 tvg-id="kcinehd" tvg-name="K+CINE" group-title="🅺✚" tvg-logo="https://i.imgur.com/E8MhzOa.png",K+CINE
-http://172.17.0.2:8383/rtp/232.84.1.122:10314
-#EXTINF:-1 tvg-id="kaction" tvg-name="K+ACTION" group-title="🅺✚" tvg-logo="https://i.imgur.com/z0dY4rf.png",K+ACTION
-http://172.17.0.2:8383/rtp/232.84.1.123:10320
 #EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+SPORT1" group-title="🅺✚" tvg-logo="https://i.imgur.com/weACFw1.png",K+SPORT1
 http://172.17.0.2:8383/rtp/232.84.1.125:10326
 #EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+SPORT2" group-title="🅺✚" tvg-logo="https://i.imgur.com/epYSBkp.png",K+SPORT2
 http://172.17.0.2:8383/rtp/232.84.1.176:10374
+#EXTINF:0 tvg-id="kkidshd" tvg-name="K+KIDS" group-title="🅺✚" tvg-logo="https://i.imgur.com/erWqYxh.png",K+Kids
+http://172.17.0.2:8383/rtp/232.84.3.42:11800
+#EXTINF:-1 tvg-id="kcinehd" tvg-name="K+CINE" group-title="🅺✚" tvg-logo="https://i.imgur.com/E8MhzOa.png",K+CINE
+http://172.17.0.2:8383/rtp/232.84.1.122:10314
+#EXTINF:-1 tvg-id="kaction" tvg-name="K+ACTION" group-title="🅺✚" tvg-logo="https://i.imgur.com/z0dY4rf.png",K+ACTION
+http://172.17.0.2:8383/rtp/232.84.1.123:10320
 
 
 #------------------------VTVcab------------------------#
 #EXTINF:-1 tvg-id="onsportsplus" tvg-name="ON Sports+" group-title="VTVcab" tvg-logo="https://i.imgur.com/BX36ieN.png",ON Sports+
-http://172.17.0.2:8383/rtp/232.84.1.220:9294
+http://172.17.0.2:8383/rtp/232.84.3.75:11602
 #EXTINF:-1 tvg-id="onsportsnews" tvg-name="ON Sports News" group-title="VTVcab" tvg-logo="https://i.imgur.com/Tc7ydA5.png",ON Sports News
 http://172.17.0.2:8383/rtp/232.84.2.193:10942
-#EXTINF:-1 tvg-id="onsports" tvg-name="ON Sports HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/TFuB8RQ.png",ON Sports HD
+#EXTINF:-1 tvg-id="onsports" tvg-name="ON Sports" group-title="VTVcab" tvg-logo="https://i.imgur.com/TFuB8RQ.png",ON Sports
 http://172.17.0.2:8383/rtp/232.84.3.242:11374
-#EXTINF:-1 tvg-id="onfootball" tvg-name="ON Football HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/Nu9R94c.png",ON Football HD
+#EXTINF:-1 tvg-id="onfootball" tvg-name="ON Football" group-title="VTVcab" tvg-logo="https://i.imgur.com/Nu9R94c.png",ON Football
 http://172.17.0.2:8383/rtp/232.84.3.243:11380
 #EXTINF:-1 tvg-id="vtvcab5hd" tvg-name="ON E Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/4CIWrMM.png",ON E Channel
 http://172.17.0.2:8383/rtp/232.84.3.76:11596
-#EXTINF:-1 tvg-id="vtvcab23hd" tvg-name="ON GOLF HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/VRXkC5n.png",ON GOLF HD
+#EXTINF:-1 tvg-id="vtvcab23hd" tvg-name="ON GOLF" group-title="VTVcab" tvg-logo="https://i.imgur.com/VRXkC5n.png",ON GOLF
 http://172.17.0.2:8383/rtp/232.84.3.244:11386
-#EXTINF:-1 tvg-id="spotv1"tvg-name="SPOTV1 HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/WboSBgl.jpg",SPOTV1 HD
+#EXTINF:-1 tvg-id="spotv1"tvg-name="SPOTV1" group-title="VTVcab" tvg-logo="https://i.imgur.com/WboSBgl.jpg",SPOTV1
 http://172.17.0.2:8383/rtp/232.84.3.111:10666
-#EXTINF:-1 tvg-id="spotv2" tvg-name="SPOTV2 HD" group-title="VTVcab" tvg-logo="https://i.imgur.com/5YpKN1T.jpg",SPOTV2 HD
+#EXTINF:-1 tvg-id="spotv2" tvg-name="SPOTV2" group-title="VTVcab" tvg-logo="https://i.imgur.com/5YpKN1T.jpg",SPOTV2
 http://172.17.0.2:8383/rtp/232.84.3.129:10672
 #EXTINF:-1 tvg-id="vtvcab4hd" tvg-name="ON Movies" group-title="VTVcab" tvg-logo="https://i.imgur.com/kovX56b.png",ON Movies
 http://172.17.0.2:8383/rtp/232.84.2.190:10924
@@ -65,6 +67,8 @@ http://172.17.0.2:8383/rtp/232.84.1.143:8832
 http://172.17.0.2:8383/rtp/232.84.1.168:8982
 #EXTINF:-1 tvg-id="vtvcab8hd" tvg-name="ON BiBi" group-title="VTVcab" tvg-logo="https://i.imgur.com/eLPQsrF.png",ON BiBi
 http://172.17.0.2:8383/rtp/232.84.3.217:11224
+#EXTINF:0 tvg-id="vtvcab21hd" tvg-name="ON Kids" group-title="VTVcab" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON Kids
+http://172.17.0.2:7088/rtp/232.84.3.41:11806
 #EXTINF:-1 tvg-id="vtvcab9hd" tvg-name="ON InfoTV" group-title="VTVcab" tvg-logo="https://i.imgur.com/KJvU2MJ.png",ON InfoTV
 http://172.17.0.2:8383/rtp/232.84.2.191:10930
 #EXTINF:-1 tvg-id="vtvcab10hd" tvg-name="ON Cine" group-title="VTVcab" tvg-logo="https://i.imgur.com/7hoXNsb.png",ON Cine
