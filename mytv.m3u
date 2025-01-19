@@ -62,27 +62,27 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.2.190:10924
 #EXTINF:-1 tvg-id="vtvcab7hd" tvg-name="ON O2TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/3Nuj0Pf.png",ON O2TV
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.74:11608
 #EXTINF:-1 tvg-id="vtvcab1hd" tvg-name="ON Vie Giải Trí" group-title="VTVcab" tvg-logo="https://i.imgur.com/1lB5tyf.png",ON Vie Giải Trí
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.143:8832
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.78:11584
 #EXTINF:-1 tvg-id="vtvcab2hd" tvg-name="On Phim Việt" group-title="VTVcab" tvg-logo="https://i.imgur.com/h75y2a6.png",ON Phim Việt
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.168:8982
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.77:11590
 #EXTINF:-1 tvg-id="vtvcab8hd" tvg-name="ON BiBi" group-title="VTVcab" tvg-logo="https://i.imgur.com/eLPQsrF.png",ON BiBi
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.217:11224
 #EXTINF:0 tvg-id="vtvcab21hd" tvg-name="ON Kids" group-title="VTVcab" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON Kids
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.41:11806
 #EXTINF:-1 tvg-id="vtvcab9hd" tvg-name="ON InfoTV" group-title="VTVcab" tvg-logo="https://i.imgur.com/KJvU2MJ.png",ON InfoTV
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.191:10930
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.73:11614
 #EXTINF:-1 tvg-id="vtvcab10hd" tvg-name="ON Cine" group-title="VTVcab" tvg-logo="https://i.imgur.com/7hoXNsb.png",ON Cine
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.205:9204
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.72:11620
 #EXTINF:-1 tvg-id="vtvcab12hd" tvg-name="ON Style TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/Shi5eEV.png",ON Style TV
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.244:9438
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.71:11626
 #EXTINF:-1 tvg-id="vtvcab15hd" tvg-name="ON Music" group-title="VTVcab" tvg-logo="https://i.imgur.com/JObbdLK.png",ON Music
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.192:10936
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.70:11632
 #EXTINF:-1 tvg-id="vtvcab17hd" tvg-name="ON TrendingTV" group-title="VTVcab" tvg-logo="https://i.imgur.com/DAGT4ox.png",ON TrendingTV
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.217:9276
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.69:11638
 #EXTINF:-1 tvg-id="vtvcab19hd" tvg-name="ON Vie Dramas" group-title="VTVcab" tvg-logo="https://i.imgur.com/dS6dRWH.png",ON Vie Dramas
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.218:11230
 #EXTINF:-1 tvg-id="vtvcab20hd" tvg-name="ON VFamily" group-title="VTVcab" tvg-logo="https://i.imgur.com/1OOW7rU.png",ON VFamily
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.245:10344
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.68:11644
 
 #------------------------SCTV------------------------#
 #EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/imhFxSG.png",SCTV1 
@@ -167,6 +167,16 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.1.212:9246
 
 
 #------------------------Địa phương (HD)------------------------#
+#EXTINF:-1 tvg-id="yenbai" tvg-name="Yên Bái" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/WKneY2w.png",Yên Bái
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.253:11440
+#EXTINF:-1 tvg-id="caobang" tvg-name="Cao Bằng" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/9n0qoJ6.png",Cao Bằng
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.202:11134
+#EXTINF:-1 tvg-id="backan" tvg-name="Bắc Kạn" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/R6FKDoA.png",Bắc Kạn
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.94:11488
+#EXTINF:-1 tvg-id="langson" tvg-name="Lạng Sơn" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/grWCq7L.png",Lạng Sơn
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.203:11140
+#EXTINF:-1 tvg-id="hoabinh" tvg-name="Hòa Bình" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/1jPcCju.png",Hòa Bình
+http://172.17.0.2:7088/rtp/232.84.3.213:11200
 #EXTINF:-1 tvg-id="quangninh1" tvg-name="Quảng Ninh 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/ndax4Qk.png",Quảng Ninh 1
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.248:10978
 #EXTINF:-1 tvg-id="quangninh3" tvg-name="Quảng Ninh 3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YfdCLVn.png",Quảng Ninh 3
@@ -175,24 +185,52 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.1.249:10984
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.146:10774
 #EXTINF:-1 tvg-id="phutho" tvg-name="Phú Thọ" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6USaqW8.png",Phú Thọ
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.148:10792
+#EXTINF:-1 tvg-id="bacgiang" tvg-name="Bắc Giang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dW4nHbw.png",Bắc Giang
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.100:11452
 #EXTINF:-1 tvg-id="bacninh" tvg-name="Bắc Ninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/TDNvY5D.png",Bắc Ninh
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.245:10506
+#EXTINF:-1 tvg-id="haiduong" tvg-name="Hải Dương" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/2eukogE.png",Hải Dương
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.44:11788
 #EXTINF:-1 tvg-id="haiphong" tvg-name="Hải Phòng" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dSKTFhP.png",Hải Phòng
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.142:10780
+#EXTINF:0 tvg-id="haiphongplus" tvg-name="Hải Phòng+" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",Hải Phòng+
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.83:11554
 #EXTINF:-1 tvg-id="hungyen" tvg-name="Hưng Yên" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/3d4eDDC.png",Hưng Yên
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.110:10786
+#EXTINF:-1 tvg-id="ninhbinh" tvg-name="Ninh Bình" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/LLY9bia.png",Ninh Bình
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.89:11518
+#EXTINF:-1 tvg-id="thanhhoa" tvg-name="Thanh Hóa" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/swtKQjl.png",Thanh Hóa
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.198:11110
 #EXTINF:-1 tvg-id="nghean" tvg-name="Nghệ An" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6BIslNR.png",Nghệ An
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.198:10972
 #EXTINF:-1 tvg-id="hatinh" tvg-name="Hà Tĩnh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/v4zGbnL.png",Hà Tĩnh
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.134:10768
+#EXTINF:-1 tvg-id="quangtri" tvg-name="Quảng Trị" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/Z1PGxtq.png",Quảng Trị
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.46:11776
 #EXTINF:-1 tvg-id="quangngai" tvg-name="Quảng Ngãi" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/d8Cv42P.png",Quảng Ngãi
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.126:10798
+#EXTINF:-1 tvg-id="kontum" tvg-name="Kon Tum" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6CVxZAf.png",Kon Tum
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.80:11572
+#EXTINF:-1 tvg-id="daklak" tvg-name="Đắk Lắk" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/oIg0cqf.png",Đắk Lắk
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.99:11464
 #EXTINF:-1 tvg-id="binhduong1" tvg-name="Bình Dương 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/MkJXKiZ.png",Bình Dương 1
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.109:10750
 #EXTINF:-1 tvg-id="binhduong4" tvg-name="Bình Dương 4" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/8Ftj4H3.png",Bình Dương 4
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.156:10756
 #EXTINF:-1 tvg-id="dongnai1" tvg-name="Đồng Nai 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/m0SBQVK.png",Đồng Nai 1
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.112:10762
+#EXTINF:-1 tvg-id="tayninh" tvg-name="Tây Ninh" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/qUvfTaK.png",Tây Ninh
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.233:11320
+#EXTINF:-1 tvg-id="vungtau" tvg-name="Bà Rịa Vũng Tàu" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/KCQrFSO.png",Bà Rịa Vũng Tàu
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.47:11770
+#EXTINF:-1 tvg-id="dongthap" tvg-name="Đồng Tháp" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/Vz2i2VT.png",Đồng Tháp
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.235:11332
+#EXTINF:-1 tvg-id="tiengiang" tvg-name="Tiền Giang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/iFymFTj.png",Tiền Giang
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.204:11146
+#EXTINF:-1 tvg-id="angiang" tvg-name="An Giang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/SOLjAA4.png",An Giang
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.81:11566
+#EXTINF:-1 tvg-id="bentre" tvg-name="Bến Tre" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/ZeKiDXW.png",Bến Tre
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.95:11482
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="Vĩnh Long 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/w3M8LmD.png",Vĩnh Long 1
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.152:10882
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="Vĩnh Long 2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/FHbIeDw.png",Vĩnh Long 2
@@ -203,50 +241,33 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.3.165:10900
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.160:10912
 #EXTINF:-1 tvg-id="kiengiang" tvg-name="Kiên Giang" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5CPlsYv.png",Kiên Giang
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.161:10918
+#EXTINF:-1 tvg-id="soctrang" tvg-name="Sóc Trăng" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/R6190Zs.png",Sóc Trăng
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.97:11470
+
 
 #------------------------Địa Phương (SD)------------------------#
 #EXTINF:-1 tvg-id="laocai" tvg-name="Lào Cai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/lDU0cuc.png",Lào Cai
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.93:8718
-#EXTINF:-1 tvg-id="yenbai" tvg-name="Yên Bái" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/WKneY2w.png",Yên Bái
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.75:9162
 #EXTINF:-1 tvg-id="dienbien" tvg-name="Điện Biên" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/V1SeRnD.png",Điện Biên
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.116:8880
-#EXTINF:-1 tvg-id="hoabinh" tvg-name="Hòa Bình" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/1jPcCju.png",Hòa Bình
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.130:8946
 #EXTINF:-1 tvg-id="laichau" tvg-name="Lai Châu" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/GyK3PCi.png",Lai Châu
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.133:9174
 #EXTINF:-1 tvg-id="sonla" tvg-name="Sơn La" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/zxT0aPl.png",Sơn La
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.184:9078
 #EXTINF:-1 tvg-id="hagiang" tvg-name="Hà Giang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/0kHlTqt.png",Hà Giang
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.85:8910
-#EXTINF:-1 tvg-id="caobang" tvg-name="Cao Bằng" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/9n0qoJ6.png",Cao Bằng
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.109:8844
-#EXTINF:-1 tvg-id="backan" tvg-name="Bắc Kạn" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/R6FKDoA.png",Bắc Kạn
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.92:8760
-#EXTINF:-1 tvg-id="langson" tvg-name="Lạng Sơn" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/grWCq7L.png",Lạng Sơn
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.107:8646
 #EXTINF:-1 tvg-id="tuyenquang" tvg-name="Tuyên Quang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/qPZeGPa.png",Tuyên Quang
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.91:9138
-#EXTINF:-1 tvg-id="bacgiang" tvg-name="Bắc Giang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/dW4nHbw.png",Bắc Giang
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.89:8754
 #EXTINF:-1 tvg-id="hanam" tvg-name="Hà Nam" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/np7QyBM.png",Hà Nam
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.82:8916
-#EXTINF:-1 tvg-id="haiduong" tvg-name="Hải Dương" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/2eukogE.png",Hải Dương
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.113:8928
 #EXTINF:-1 tvg-id="namdinh" tvg-name="Nam Định" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/fF5bP7D.png",Nam Định
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.119:9006
-#EXTINF:-1 tvg-id="ninhbinh" tvg-name="Ninh Bình" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/LLY9bia.png",Ninh Bình
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.80:9018
 #EXTINF:-1 tvg-id="thaibinh" tvg-name="Thái Bình" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/GlwZkCI.png",Thái Bình
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.100:9090
 #EXTINF:-1 tvg-id="vinhphuc" tvg-name="Vĩnh Phúc" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/7IxMDzD.png",Vĩnh Phúc
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.83:9156
-#EXTINF:-1 tvg-id="thanhhoa" tvg-name="Thanh Hóa" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/swtKQjl.png",Thanh Hóa
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.111:9102
 #EXTINF:-1 tvg-id="quangbinh" tvg-name="Quảng Bình" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/JCFsITk.png",Quảng Bình
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.98:9042
-#EXTINF:-1 tvg-id="quangtri" tvg-name="Quảng Trị" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Z1PGxtq.png",Quảng Trị
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.105:9066
 #EXTINF:-1 tvg-id="thuathienhue" tvg-name="Thừa Thiên Huế" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/c3MsI3R.png",Thừa Thiên Huế
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.106:9120
 #EXTINF:-1 tvg-id="danang1" tvg-name="Đà Nẵng 1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/jcSaAy6.png",Đà Nẵng 1
@@ -267,12 +288,8 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.2.99:8958
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.74:9024
 #EXTINF:-1 tvg-id="binhthuan" tvg-name="Bình Thuận" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/RQhVetK.png",Bình Thuận
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.77:8820
-#EXTINF:-1 tvg-id="kontum" tvg-name="Kon Tum" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/6CVxZAf.png",Kon Tum
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.115:8970
 #EXTINF:-1 tvg-id="gialai" tvg-name="Gia Lai" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/qvlICWE.png",Gia Lai
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.138:8904
-#EXTINF:-1 tvg-id="daklak" tvg-name="Đắk Lắk" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/oIg0cqf.png",Đắk Lắk
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.149:8868
 #EXTINF:-1 tvg-id="daknong" tvg-name="Đắk Nông" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/pP17qVw.png",Đắk Nông
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.140:8874
 #EXTINF:-1 tvg-id="lamdong" tvg-name="Lâm Đồng" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/SOtwykZ.png",Lâm Đồng
@@ -281,30 +298,14 @@ http://cloud.vuducdong.uk:8383/rtp/232.84.2.78:8976
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.90:8814
 #EXTINF:-1 tvg-id="binhduong2" tvg-name="Bình Dương 2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/vzdJrcP.png",Bình Dương 2
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.137:8796
-#EXTINF:-1 tvg-id="dongnai1" tvg-name="Đồng Nai 1" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/m0SBQVK.png",Đồng Nai 1
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.152:8886
 #EXTINF:-1 tvg-id="dongnai2" tvg-name="Đồng Nai 2" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/acthB1p.png",Đồng Nai 2
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.153:8892
-#EXTINF:-1 tvg-id="tayninh" tvg-name="Tây Ninh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/qUvfTaK.png",Tây Ninh
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.97:9084
-#EXTINF:-1 tvg-id="bariavungtau" tvg-name="Bà Rịa Vũng Tàu" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/KCQrFSO.png",Bà Rịa Vũng Tàu
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.73:8748
 #EXTINF:-1 tvg-id="longan" tvg-name="Long An" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/SulnKWO.png",Long An
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.171:9000
-#EXTINF:-1 tvg-id="dongthap" tvg-name="Đồng Tháp" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Vz2i2VT.png",Đồng Tháp
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.154:8898
-#EXTINF:-1 tvg-id="tiengiang" tvg-name="Tiền Giang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/iFymFTj.png",Tiền Giang
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.189:9108
-#EXTINF:-1 tvg-id="angiang" tvg-name="An Giang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/SOLjAA4.png",An Giang
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.110:8742
-#EXTINF:-1 tvg-id="bentre" tvg-name="Bến Tre" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/ZeKiDXW.png",Bến Tre
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.115:8778
 #EXTINF:-1 tvg-id="travinh" tvg-name="Trà Vinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/IhAFIHH.png",Trà Vinh
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.102:9114
 #EXTINF:-1 tvg-id="haugiang" tvg-name="Hậu Giang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/3ls9f26.png",Hậu Giang
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.112:8940
-#EXTINF:-1 tvg-id="soctrang" tvg-name="Sóc Trăng" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/R6190Zs.png",Sóc Trăng
-http://cloud.vuducdong.uk:8383/rtp/232.84.2.103:9072
 #EXTINF:-1 tvg-id="baclieu" tvg-name="Bạc Liêu" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/9tlmDgG.png",Bạc Liêu
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.116:8766
 #EXTINF:-1 tvg-id="camau" tvg-name="Cà Mau" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/jSvc0mR.png",Cà Mau
