@@ -1,193 +1,193 @@
 #EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
 
-#------------------------01. VTV ✚ Hanoi------------------------#
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="01. VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/nEH53s1.png",VTV1
+#------------------------01. VTV - Hà Nội------------------------#
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/nEH53s1.png",VTV1
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.117:10254
-#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" group-title="01. VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/9ZxLR8d.png",VTV2
+#EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/9ZxLR8d.png",VTV2
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.31:10594
-#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" group-title="01. VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/QWlILdK.png",VTV3
+#EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/QWlILdK.png",VTV3
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.118:10260
-#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" group-title="01. VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/9AJZzNb.png",VTV4
+#EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/9AJZzNb.png",VTV4
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.106:10600
-#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" group-title="01. VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/CnwDB0i.png",VTV5
+#EXTINF:-1 tvg-id="vtv5hd" tvg-name="VTV5" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/CnwDB0i.png",VTV5
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.33:10606
-#EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5 Tây Nguyên" group-title="01. VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/A2AqgH2.png",VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" tvg-name="VTV5 Tây Nguyên" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/A2AqgH2.png",VTV5 Tây Nguyên
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.66:11656
-#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 Tây Nam Bộ" group-title="01. VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/qiwUQGG.png",VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5 Tây Nam Bộ" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/qiwUQGG.png",VTV5 Tây Nam Bộ
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.86:11542
-#EXTINF:-1 tvg-id="vtvcantho" tvg-name="VTV Cần Thơ" group-title="01. VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/3YAnuY5.png",VTV Cần Thơ 
+#EXTINF:-1 tvg-id="vtvcantho" tvg-name="VTV Cần Thơ" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/3YAnuY5.png",VTV Cần Thơ 
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.119:10266
-#EXTINF:-11 tvg-id="vtv7hd" tvg-name="VTV7" group-title="01. VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/csDXrtg.png",VTV7
+#EXTINF:-11 tvg-id="vtv7hd" tvg-name="VTV7" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/csDXrtg.png",VTV7
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.202:10996
-#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" group-title="01. VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/78k8UY9.png",VTV8
+#EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/78k8UY9.png",VTV8
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.104:10612
-#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" group-title="01. VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/szwzNvi.png",VTV9
+#EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/szwzNvi.png",VTV9
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.35:10618
-#EXTINF:-1 tvg-id="hanoi1" tvg-name="HANOI 1" group-title="01. VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/2fHroPI.png",Hà Nội 1
+#EXTINF:-1 tvg-id="hanoi1" tvg-name="HANOI 1" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/2fHroPI.png",Hà Nội 1
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.143:10738
-#EXTINF:-1 tvg-id="hanoi2" tvg-name="HANOI 2" group-title="01. VTV ✚ Hanoi" tvg-logo="https://i.imgur.com/u9iGlgm.png",Hà Nội 2
+#EXTINF:-1 tvg-id="hanoi2" tvg-name="HANOI 2" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/u9iGlgm.png",Hà Nội 2
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.137:10744
 
+#------------------------02. Quốc Phòng - An Ninh------------------------#
+#EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN" group-title="02. Quốc Phòng - An Ninh" tvg-logo="https://i.imgur.com/bZkReWB.png",Quốc Phòng Việt Nam
+http://cloud.vuducdong.uk:8383/rtp/232.84.3.127:10816
+#EXTINF:-1 tvg-name="antvhd" tvg-name="ANTV" group-title="02. Quốc Phòng - An Ninh" tvg-logo="https://i.imgur.com/nOb4rPT.png",An Ninh TV
+http://cloud.vuducdong.uk:8383/rtp/232.84.1.212:9246
+
 #-----------------------K+-------------------------#
-#EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+SPORT1" group-title="02. 🅺✚" tvg-logo="https://i.imgur.com/weACFw1.png",K+SPORT1
+#EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+SPORT1" group-title="03. 🅺✚" tvg-logo="https://i.imgur.com/weACFw1.png",K+SPORT1
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.125:10326
-#EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+SPORT1" group-title="02. 🅺✚" tvg-logo="https://i.imgur.com/weACFw1.png",K+SPORT1
+#EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+SPORT1" group-title="03. 🅺✚" tvg-logo="https://i.imgur.com/weACFw1.png",K+SPORT1
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.37:8196
-#EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+SPORT2" group-title="02. 🅺✚" tvg-logo="https://i.imgur.com/epYSBkp.png",K+SPORT2
+#EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+SPORT2" group-title="03. 🅺✚" tvg-logo="https://i.imgur.com/epYSBkp.png",K+SPORT2
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.176:10374
-#EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+SPORT2" group-title="02. 🅺✚" tvg-logo="https://i.imgur.com/epYSBkp.png",K+SPORT2
+#EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+SPORT2" group-title="03. 🅺✚" tvg-logo="https://i.imgur.com/epYSBkp.png",K+SPORT2
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.34:8178
-#EXTINF:0 tvg-id="kkidshd" tvg-name="K+KIDS" group-title="02. 🅺✚" tvg-logo="https://i.imgur.com/erWqYxh.png",K+Kids
+#EXTINF:0 tvg-id="kkidshd" tvg-name="K+KIDS" group-title="03. 🅺✚" tvg-logo="https://i.imgur.com/erWqYxh.png",K+Kids
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.42:11800
-#EXTINF:-1 tvg-id="kcinehd" tvg-name="K+CINE" group-title="02. 🅺✚" tvg-logo="https://i.imgur.com/E8MhzOa.png",K+CINE
+#EXTINF:-1 tvg-id="kcinehd" tvg-name="K+CINE" group-title="03. 🅺✚" tvg-logo="https://i.imgur.com/E8MhzOa.png",K+CINE
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.122:10314
-#EXTINF:-1 tvg-id="kcinehd" tvg-name="K+CINE" group-title="02. 🅺✚" tvg-logo="https://i.imgur.com/E8MhzOa.png",K+CINE
+#EXTINF:-1 tvg-id="kcinehd" tvg-name="K+CINE" group-title="03. 🅺✚" tvg-logo="https://i.imgur.com/E8MhzOa.png",K+CINE
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.38:8202
-#EXTINF:-1 tvg-id="kaction" tvg-name="K+ACTION" group-title="02. 🅺✚" tvg-logo="https://i.imgur.com/z0dY4rf.png",K+ACTION
+#EXTINF:-1 tvg-id="kaction" tvg-name="K+ACTION" group-title="03. 🅺✚" tvg-logo="https://i.imgur.com/z0dY4rf.png",K+ACTION
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.123:10320
-#EXTINF:-1 tvg-id="kaction" tvg-name="K+ACTION" group-title="02. 🅺✚" tvg-logo="https://i.imgur.com/z0dY4rf.png",K+ACTION
+#EXTINF:-1 tvg-id="kaction" tvg-name="K+ACTION" group-title="03. 🅺✚" tvg-logo="https://i.imgur.com/z0dY4rf.png",K+ACTION
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.33:8172
 
 
 #------------------------VTVcab------------------------#
-#EXTINF:-1 tvg-id="onsportsplus" tvg-name="ON Sports+" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/BX36ieN.png",ON Sports+
+#EXTINF:-1 tvg-id="onsportsplus" tvg-name="ON Sports+" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/BX36ieN.png",ON Sports+
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.75:11602
-#EXTINF:-1 tvg-id="onsportsnews" tvg-name="ON Sports News" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/Tc7ydA5.png",ON Sports News
+#EXTINF:-1 tvg-id="onsportsnews" tvg-name="ON Sports News" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/Tc7ydA5.png",ON Sports News
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.193:10942
-#EXTINF:-1 tvg-id="onsports" tvg-name="ON Sports" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/TFuB8RQ.png",ON Sports
+#EXTINF:-1 tvg-id="onsports" tvg-name="ON Sports" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/TFuB8RQ.png",ON Sports
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.207:9216
-#EXTINF:-1 tvg-id="onsports" tvg-name="ON Sports" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/TFuB8RQ.png",ON Sports
+#EXTINF:-1 tvg-id="onsports" tvg-name="ON Sports" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/TFuB8RQ.png",ON Sports
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.242:11374
-#EXTINF:-1 tvg-id="onfootball" tvg-name="ON Football" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/Nu9R94c.png",ON Football
+#EXTINF:-1 tvg-id="onfootball" tvg-name="ON Football" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/Nu9R94c.png",ON Football
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.243:11380
-#EXTINF:-1 tvg-id="onfootball" tvg-name="ON Football" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/Nu9R94c.png",ON Football
+#EXTINF:-1 tvg-id="onfootball" tvg-name="ON Football" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/Nu9R94c.png",ON Football
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.210:9234
-#EXTINF:-1 tvg-id="onechannel" tvg-name="ON E Channel" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/4CIWrMM.png",ON E Channel
+#EXTINF:-1 tvg-id="onechannel" tvg-name="ON E Channel" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/4CIWrMM.png",ON E Channel
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.76:11596
-#EXTINF:-1 tvg-id="vtvcab23hd" tvg-name="ON GOLF" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/VRXkC5n.png",ON GOLF
+#EXTINF:-1 tvg-id="vtvcab23hd" tvg-name="ON GOLF" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/VRXkC5n.png",ON GOLF
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.244:11386
-#EXTINF:-1 tvg-id="vtvcab23hd" tvg-name="ON GOLF" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/VRXkC5n.png",ON GOLF
+#EXTINF:-1 tvg-id="vtvcab23hd" tvg-name="ON GOLF" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/VRXkC5n.png",ON GOLF
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.246:10876
-#EXTINF:-1 tvg-id="spotv1"tvg-name="SPOTV1" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/WboSBgl.jpg",SPOTV1
+#EXTINF:-1 tvg-id="spotv1"tvg-name="SPOTV1" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/WboSBgl.jpg",SPOTV1
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.111:10666
-#EXTINF:-1 tvg-id="spotv1"tvg-name="SPOTV1" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/WboSBgl.jpg",SPOTV1
+#EXTINF:-1 tvg-id="spotv1"tvg-name="SPOTV1" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/WboSBgl.jpg",SPOTV1
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.141:10666
-#EXTINF:-1 tvg-id="spotv1"tvg-name="SPOTV1" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/WboSBgl.jpg",SPOTV1
+#EXTINF:-1 tvg-id="spotv1"tvg-name="SPOTV1" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/WboSBgl.jpg",SPOTV1
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.49:11758
-#EXTINF:-1 tvg-id="spotv2" tvg-name="SPOTV2" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/5YpKN1T.jpg",SPOTV2
+#EXTINF:-1 tvg-id="spotv2" tvg-name="SPOTV2" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/5YpKN1T.jpg",SPOTV2
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.129:10672
-#EXTINF:-1 tvg-id="spotv2" tvg-name="SPOTV2" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/5YpKN1T.jpg",SPOTV2
+#EXTINF:-1 tvg-id="spotv2" tvg-name="SPOTV2" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/5YpKN1T.jpg",SPOTV2
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.142:10672
-#EXTINF:-1 tvg-id="spotv2" tvg-name="SPOTV2" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/5YpKN1T.jpg",SPOTV2
+#EXTINF:-1 tvg-id="spotv2" tvg-name="SPOTV2" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/5YpKN1T.jpg",SPOTV2
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.48:11764
-#EXTINF:-1 tvg-id="onmovies" tvg-name="ON Movies" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/kovX56b.png",ON Movies
+#EXTINF:-1 tvg-id="onmovies" tvg-name="ON Movies" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/kovX56b.png",ON Movies
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.190:10924
-#EXTINF:-1 tvg-id="ono2tv" tvg-name="ON O2TV" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/3Nuj0Pf.png",ON O2TV
+#EXTINF:-1 tvg-id="ono2tv" tvg-name="ON O2TV" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/3Nuj0Pf.png",ON O2TV
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.74:11608
-#EXTINF:-1 tvg-id="onviegiaitri" tvg-name="ON Vie Giải Trí" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/1lB5tyf.png",ON Vie Giải Trí
+#EXTINF:-1 tvg-id="onviegiaitri" tvg-name="ON Vie Giải Trí" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/1lB5tyf.png",ON Vie Giải Trí
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.78:11584
-#EXTINF:-1 tvg-id="onphimviet" tvg-name="On Phim Việt" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/h75y2a6.png",ON Phim Việt
+#EXTINF:-1 tvg-id="onphimviet" tvg-name="On Phim Việt" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/h75y2a6.png",ON Phim Việt
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.77:11590
-#EXTINF:-1 tvg-id="onbibi" tvg-name="ON BiBi" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/eLPQsrF.png",ON BiBi
+#EXTINF:-1 tvg-id="onbibi" tvg-name="ON BiBi" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/eLPQsrF.png",ON BiBi
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.217:11224
-#EXTINF:0 tvg-id="onkids" tvg-name="ON Kids" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON Kids
+#EXTINF:0 tvg-id="onkids" tvg-name="ON Kids" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON Kids
 http://172.17.0.2:7088/rtp/232.84.3.41:11806
-#EXTINF:-1 tvg-id="oninfotv" tvg-name="ON InfoTV" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/KJvU2MJ.png",ON InfoTV
+#EXTINF:-1 tvg-id="oninfotv" tvg-name="ON InfoTV" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/KJvU2MJ.png",ON InfoTV
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.73:11614
-#EXTINF:-1 tvg-id="oncine" tvg-name="ON Cine" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/7hoXNsb.png",ON Cine
+#EXTINF:-1 tvg-id="oncine" tvg-name="ON Cine" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/7hoXNsb.png",ON Cine
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.72:11620
-#EXTINF:-1 tvg-id="onstyle" tvg-name="ON Style TV" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/Shi5eEV.png",ON Style TV
+#EXTINF:-1 tvg-id="onstyle" tvg-name="ON Style TV" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/Shi5eEV.png",ON Style TV
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.71:11626
-#EXTINF:-1 tvg-id="onmusic" tvg-name="ON Music" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/JObbdLK.png",ON Music
+#EXTINF:-1 tvg-id="onmusic" tvg-name="ON Music" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/JObbdLK.png",ON Music
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.70:11632
-#EXTINF:-1 tvg-id="ontrending" tvg-name="ON TrendingTV" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/DAGT4ox.png",ON TrendingTV
+#EXTINF:-1 tvg-id="ontrending" tvg-name="ON TrendingTV" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/DAGT4ox.png",ON TrendingTV
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.69:11638
-#EXTINF:-1 tvg-id="onviedramas" tvg-name="ON Vie Dramas" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/dS6dRWH.png",ON Vie Dramas
+#EXTINF:-1 tvg-id="onviedramas" tvg-name="ON Vie Dramas" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/dS6dRWH.png",ON Vie Dramas
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.218:11230
-#EXTINF:-1 tvg-id="onvfamily" tvg-name="ON VFamily" group-title="03. VTVcab" tvg-logo="https://i.imgur.com/1OOW7rU.png",ON VFamily
+#EXTINF:-1 tvg-id="onvfamily" tvg-name="ON VFamily" group-title="04. VTVcab" tvg-logo="https://i.imgur.com/1OOW7rU.png",ON VFamily
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.68:11644
 
-#------------------------04. SCTV------------------------#
-#EXTINF:0 tvg-id="sctv1hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/imhFxSG.png",SCTV1 
+#------------------------05. SCTV------------------------#
+#EXTINF:0 tvg-id="sctv1hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/imhFxSG.png",SCTV1 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.34:11848
-#EXTINF:0 tvg-id="sctv2hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2 
+#EXTINF:0 tvg-id="sctv2hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/UpBZOaH.png",SCTV2 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.33:11854
-#EXTINF:0 tvg-id="sctv3hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/wZrGAtH.png",SCTV3 
+#EXTINF:0 tvg-id="sctv3hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/wZrGAtH.png",SCTV3 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.32:11860
-#EXTINF:0 tvg-id="sctv4hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/ntSnAMJ.png",SCTV4 
+#EXTINF:0 tvg-id="sctv4hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/ntSnAMJ.png",SCTV4 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.31:11866
-#EXTINF:0 tvg-id="sctv6hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 
+#EXTINF:0 tvg-id="sctv6hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.30:11872
-#EXTINF:0 tvg-id="sctv7hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/EdjXUUb.png",SCTV7 
+#EXTINF:0 tvg-id="sctv7hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/EdjXUUb.png",SCTV7 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.29:11878
-#EXTINF:0 tvg-id="sctv8hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/NULoCoA.png",SCTV8 
+#EXTINF:0 tvg-id="sctv8hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/NULoCoA.png",SCTV8 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.28:11884
-#EXTINF:0 tvg-id="sctv9hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/6dvyvea.png",SCTV9 
+#EXTINF:0 tvg-id="sctv9hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/6dvyvea.png",SCTV9 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.27:11890
-#EXTINF:0 tvg-id="sctv11hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/AP2o4bW.png",SCTV11 
+#EXTINF:0 tvg-id="sctv11hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/AP2o4bW.png",SCTV11 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.26:11896
-#EXTINF:0 tvg-id="sctv12hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/5nrSZd8.png",SCTV12 
+#EXTINF:0 tvg-id="sctv12hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/5nrSZd8.png",SCTV12 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.25:11902
-#EXTINF:0 tvg-id="sctv13hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/PEz2Ieq.png",SCTV13 
+#EXTINF:0 tvg-id="sctv13hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/PEz2Ieq.png",SCTV13 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.24:11908
-#EXTINF:0 tvg-id="sctv14hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/1yNMyEh.png",SCTV14 
+#EXTINF:0 tvg-id="sctv14hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/1yNMyEh.png",SCTV14 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.23:11914
-#EXTINF:0 tvg-id="sctv15hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/EPwjrlB.png",SCTV15 
+#EXTINF:0 tvg-id="sctv15hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/EPwjrlB.png",SCTV15 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.22:11920
-#EXTINF:0 tvg-id="sctv16hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/b4ZROQG.png",SCTV16 
+#EXTINF:0 tvg-id="sctv16hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/b4ZROQG.png",SCTV16 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.21:11926
-#EXTINF:0 tvg-id="sctv17hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/Ghjy4HY.png",SCTV17 
+#EXTINF:0 tvg-id="sctv17hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/Ghjy4HY.png",SCTV17 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.20:11932
-#EXTINF:0 tvg-id="sctv18hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/k2Eg4T4.png",SCTV18 
+#EXTINF:0 tvg-id="sctv18hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/k2Eg4T4.png",SCTV18 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.19:11938
-#EXTINF:0 tvg-id="sctv19hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/s4vfvNb.png",SCTV19 
+#EXTINF:0 tvg-id="sctv19hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/s4vfvNb.png",SCTV19 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.18:11944
-#EXTINF:0 tvg-id="sctv20hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/zwfqboB.png",SCTV20 
+#EXTINF:0 tvg-id="sctv20hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/zwfqboB.png",SCTV20 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.17:11950
-#EXTINF:0 tvg-id="sctv21hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/aHKybQW.png",SCTV21 
+#EXTINF:0 tvg-id="sctv21hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/aHKybQW.png",SCTV21 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.16:11956
-#EXTINF:0 tvg-id="sctv22hd" group-title="04. SCTV" tvg-logo="https://i.imgur.com/O0HdUpB.png",SCTV22 
+#EXTINF:0 tvg-id="sctv22hd" group-title="05. SCTV" tvg-logo="https://i.imgur.com/O0HdUpB.png",SCTV22 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.15:11962
-#EXTINF:0 tvg-id="sctvhdpth" group-title="04. SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV Phim Tổng hợp 
+#EXTINF:0 tvg-id="sctvhdpth" group-title="05. SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV Phim Tổng hợp 
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.14:11968
 
 
-#------------------------05. HTV/HTVC------------------------#
-#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THỂ THAO HD" group-title="05. HTV/HTVC" tvg-logo="https://i.imgur.com/eX0ZNpi.png",HTV THỂ THAO HD
+#------------------------06. HTV - HTVC------------------------#
+#EXTINF:-1 tvg-id="htvthethaohd" tvg-name="HTV THỂ THAO HD" group-title="06. HTV - HTVC" tvg-logo="https://i.imgur.com/eX0ZNpi.png",HTV THỂ THAO HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.88:11524
-#EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" group-title="05. HTV/HTVC" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
+#EXTINF:-1 tvg-id="htv1" tvg-name="HTV1" group-title="06. HTV - HTVC" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.57:11710
-#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2 VieChannel HD" group-title="05. HTV/HTVC" tvg-logo="https://i.imgur.com/KRShW5y.png",HTV2 Vie Channel HD
+#EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2 VieChannel HD" group-title="06. HTV - HTVC" tvg-logo="https://i.imgur.com/KRShW5y.png",HTV2 Vie Channel HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.182:9306
-#EXTINF:-1 tvg-id="htv3hd" tvg-name="HTV3" group-title="05. HTV/HTVC" tvg-logo="https://i.imgur.com/TCoIsVF.png",HTV3
+#EXTINF:-1 tvg-id="htv3hd" tvg-name="HTV3" group-title="06. HTV - HTVC" tvg-logo="https://i.imgur.com/TCoIsVF.png",HTV3
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.56:11716
-#EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7 HD" group-title="05. HTV/HTVC" tvg-logo="https://i.imgur.com/pNWzP6P.png",HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" tvg-name="HTV7 HD" group-title="06. HTV - HTVC" tvg-logo="https://i.imgur.com/pNWzP6P.png",HTV7 HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.223:9312
-#EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9 HD" group-title="05. HTV/HTVC" tvg-logo="https://i.imgur.com/IsTEZFb.png",HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" tvg-name="HTV9 HD" group-title="06. HTV - HTVC" tvg-logo="https://i.imgur.com/IsTEZFb.png",HTV9 HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.1.224:9318
-#EXTINF:-1 tvg-id="htvcphimhd" tvg-name="HTVC Phim HD" group-title="05. HTV/HTVC" tvg-logo="https://i.imgur.com/5X1BPGr.png",HTVC Phim HD
+#EXTINF:-1 tvg-id="htvcphimhd" tvg-name="HTVC Phim HD" group-title="06. HTV - HTVC" tvg-logo="https://i.imgur.com/5X1BPGr.png",HTVC Phim HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.118:9594
-#EXTINF:-1 tvg-id="tvg-id="htvcthuanviethd" tvg-name="HTVC Thuần Việt HD" group-title="05. HTV/HTVC" tvg-logo="https://i.imgur.com/Ks9yWa1.png",HTVC Thuần Việt HD
+#EXTINF:-1 tvg-id="tvg-id="htvcthuanviethd" tvg-name="HTVC Thuần Việt HD" group-title="06. HTV - HTVC" tvg-logo="https://i.imgur.com/Ks9yWa1.png",HTVC Thuần Việt HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.2.134:9600
-#EXTINF:-1 tvg-id="htvkey" tvg-name="HTV Key" group-title="05. HTV/HTVC" tvg-logo="https://i.imgur.com/qSpTUnK.png",HTV Key
+#EXTINF:-1 tvg-id="htvkey" tvg-name="HTV Key" group-title="06. HTV - HTVC" tvg-logo="https://i.imgur.com/qSpTUnK.png",HTV Key
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.55:11722
-#EXTINF:-1 tvg-id="htvcdulichhd" tvg-name="HTVC Du Lịch HD" group-title="05. HTV/HTVC" tvg-logo="https://i.imgur.com/eJrN2C6.png",HTVC Du Lịch HD
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-name="HTVC Du Lịch HD" group-title="06. HTV - HTVC" tvg-logo="https://i.imgur.com/eJrN2C6.png",HTVC Du Lịch HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.53:11734
-#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-name="HTVC Gia Đình HD" group-title="05. HTV/HTVC" tvg-logo="https://i.imgur.com/Wpp9DpW.png",HTVC Gia Đình HD
+#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-name="HTVC Gia Đình HD" group-title="06. HTV - HTVC" tvg-logo="https://i.imgur.com/Wpp9DpW.png",HTVC Gia Đình HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.52:11740
-#EXTINF:-1 tvg-id="htvcplushd" tvg-name="HTVC Plus HD" group-title="05. HTV/HTVC" tvg-logo="https://i.imgur.com/5X1BPGr.png",HTVC Plus HD
+#EXTINF:-1 tvg-id="htvcplushd" tvg-name="HTVC Plus HD" group-title="06. HTV - HTVC" tvg-logo="https://i.imgur.com/5X1BPGr.png",HTVC Plus HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.245:11392
-#EXTINF:-1 tvg-id="htvcphunuhd" tvg-name="HTVC Phụ Nữ HD" group-title="05. HTV/HTVC" tvg-logo="https://i.imgur.com/Zq00lJR.png",HTVC Phụ Nữ HD
+#EXTINF:-1 tvg-id="htvcphunuhd" tvg-name="HTVC Phụ Nữ HD" group-title="06. HTV - HTVC" tvg-logo="https://i.imgur.com/Zq00lJR.png",HTVC Phụ Nữ HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.51:11746
-#EXTINF:-1 tvg-id="htvccanhachd" tvg-name="HTVC Ca Nhạc HD" group-title="05. HTV/HTVC" tvg-logo="https://i.imgur.com/BM2SCQ4.png",HTVC Ca Nhạc HD
+#EXTINF:-1 tvg-id="htvccanhachd" tvg-name="HTVC Ca Nhạc HD" group-title="06. HTV - HTVC" tvg-logo="https://i.imgur.com/BM2SCQ4.png",HTVC Ca Nhạc HD
 http://cloud.vuducdong.uk:8383/rtp/232.84.3.54:11728
-
-#------------------------06. Thiết Yếu------------------------#
-#EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN HD" group-title="06. TH Thiết Yếu" tvg-logo="https://i.imgur.com/bZkReWB.png",QPVN HD
-http://cloud.vuducdong.uk:8383/rtp/232.84.3.127:10816
-#EXTINF:-1 tvg-name="antvhd" tvg-name="ANTV HD" group-title="06. TH Thiết Yếu" tvg-logo="https://i.imgur.com/nOb4rPT.png",ANTV HD
-http://cloud.vuducdong.uk:8383/rtp/232.84.1.212:9246
 
 
 #------------------------07. Địa Phương (HD)------------------------#
