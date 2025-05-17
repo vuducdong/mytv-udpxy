@@ -3,7 +3,7 @@
 
 #------------------------01. VTV - Hà Nội------------------------#
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/nEH53s1.png",VTV1
-https://cloud.vuducdong.uk:7088/rtp/232.84.1.117:10254
+http://cloud.vuducdong.uk:7088/rtp/232.84.1.117:10254
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/9ZxLR8d.png",VTV2
 http://cloud.vuducdong.uk:7088/rtp/232.84.2.31:10594
 #EXTINF:-1 tvg-id="vtv3hd" tvg-name="VTV3" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/QWlILdK.png",VTV3
