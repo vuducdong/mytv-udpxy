@@ -28,8 +28,6 @@ http://172.17.0.4:7088/rtp/232.84.2.35:10618
 http://172.17.0.4:7088/rtp/232.84.3.143:10738
 #EXTINF:-1 tvg-id="hanoi2" tvg-name="HANOI 2" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/u9iGlgm.png",Hà Nội 2
 http://172.17.0.4:7088/rtp/232.84.3.137:10744
-#EXTINF:-1 tvg-id="hanoi2" tvg-name="HANOI 2 UHD" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/u9iGlgm.png",Hà Nội 2 UHD
-http://172.17.0.4:7088/rtp/225.1.1.109:30120
 
 #------------------------02. Quốc Phòng - An Ninh------------------------#
 #EXTINF:-1 tvg-id="qpvnhd" tvg-name="QPVN" group-title="02. Quốc Phòng - An Ninh" tvg-logo="https://i.imgur.com/bZkReWB.png",Quốc Phòng Việt Nam

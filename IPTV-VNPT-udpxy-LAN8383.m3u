@@ -526,5 +526,4 @@ http://172.17.0.2:8383/rtp/232.84.1.159:10422
 #EXTINF:0 tvg-id="" group-title="11. MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",MyTV Promo
 http://172.17.0.2:8383/rtp/232.84.3.195:11092
 #EXTINF:0 tvg-id="" group-title="11. MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",MyTV Promo
-
 http://172.17.0.2:8383/rtp/232.84.1.238:10296
