@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
 #------------------------01. VTV - Hà Nội------------------------#
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-title="01. VTV - Hà Nội" tvg-logo="https://i.imgur.com/nEH53s1.png",VTV1
@@ -526,4 +526,5 @@ http://172.17.0.2:8383/rtp/232.84.1.159:10422
 #EXTINF:0 tvg-id="" group-title="11. MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",MyTV Promo
 http://172.17.0.2:8383/rtp/232.84.3.195:11092
 #EXTINF:0 tvg-id="" group-title="11. MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",MyTV Promo
+
 http://172.17.0.2:8383/rtp/232.84.1.238:10296
